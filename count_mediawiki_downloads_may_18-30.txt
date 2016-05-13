@@ -1,0 +1,2877 @@
+uri_path	country	hits
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	China	15786
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	China	10838
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	China	2892
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	United States	1647
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	United States	1562
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Germany	922
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Germany	894
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	China	585
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Vietnam	399
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	France	397
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Unknown	334
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	France	317
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Unknown	305
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	India	274
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	China	259
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Japan	254
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Russia	252
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	United Kingdom	251
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	United States	239
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	India	233
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	United Kingdom	232
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Brazil	227
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Japan	213
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	China	207
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Canada	205
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Russia	195
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Morocco	176
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Spain	171
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Brazil	163
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Netherlands	160
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Spain	160
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	United States	159
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Netherlands	144
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Germany	143
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	United States	141
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Canada	129
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Germany	127
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Australia	123
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Morocco	119
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Italy	116
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Italy	115
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Republic of Korea	104
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Republic of Korea	103
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	China	100
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Switzerland	99
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Iran	96
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Unknown	94
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Australia	94
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mexico	86
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	United States	85
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ukraine	85
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Yemen	79
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Switzerland	79
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Philippines	78
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Taiwan	74
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Iran	73
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Poland	70
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Austria	68
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Austria	68
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Unknown	64
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Bangladesh	63
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Iran	63
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Norway	62
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Pakistan	62
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Pakistan	60
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	United States	60
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Argentina	59
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Pakistan	55
+/mediawiki/1.19/mediawiki-1.19.23.tar.gz	China	54
+/mediawiki/1.9/mediawiki-1.9.0.tar.gz	United States	54
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Indonesia	54
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Indonesia	53
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Sweden	53
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Poland	53
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Belgium	53
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	South Africa	52
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Australia	52
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Singapore	50
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Taiwan	50
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Norway	49
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Algeria	47
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Morocco	47
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Saudi Arabia	46
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Finland	46
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Pakistan	45
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Algeria	45
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Israel	44
+/mediawiki/1.22/mediawiki-1.22.2.tar.gz	Germany	44
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Czech Republic	44
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Israel	44
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Turkey	43
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ukraine	43
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Germany	42
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Czech Republic	42
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Sweden	42
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Mexico	41
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	China	41
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Hong Kong	40
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Indonesia	40
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	South Africa	38
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	United States	38
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Greece	37
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Russia	36
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Malaysia	36
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ireland	36
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	United States	36
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	India	36
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	India	35
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Romania	35
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Turkey	35
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	United States	34
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	United States	34
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Singapore	33
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	France	33
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Bangladesh	33
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Morocco	33
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Thailand	32
+/mediawiki/1.3/mediawiki-1.3.15.tar.gz	United States	31
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Republic of Korea	31
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Canada	31
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Venezuela	31
+/mediawiki/1.13/mediawiki-1.13.0.tar.gz	United States	30
+/mediawiki/1.4/mediawiki-1.4.14.tar.gz	United States	30
+/mediawiki/1.3/mediawiki-1.3.12.tar.gz	United States	30
+/mediawiki/1.5/mediawiki-1.5.2.tar.gz	United States	30
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	United Kingdom	30
+/mediawiki/1.7/mediawiki-1.7.1.tar.gz	United States	30
+/mediawiki/1.4/mediawiki-1.4.12.tar.gz	United States	30
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	United States	30
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Morocco	30
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Pakistan	30
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	United States	30
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Thailand	30
+/mediawiki/1.24/mediawiki-1.24.0-rc.0.tar.gz	United States	30
+/mediawiki/1.15/mediawiki-1.15.0.tar.gz	United States	30
+/mediawiki/snapshot/mediawiki-snapshot-20060316.tar.gz	United States	29
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.patch.gz	United States	29
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	United Kingdom	29
+/mediawiki/1.3/mediawiki-1.3.13.tar.gz	United States	29
+/mediawiki/1.6/mediawiki-1.6.12.tar.gz	United States	29
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	United States	29
+/mediawiki/snapshot/mediawiki-snapshot-20060317.tar.gz	United States	29
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	United States	29
+/mediawiki/1.16/mediawiki-1.16.0.patch.gz	United States	29
+/mediawiki/1.11/mediawiki-1.11.0.tar.gz	United States	29
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Vietnam	29
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Saudi Arabia	29
+/mediawiki/1.10/mediawiki-1.10.0.tar.gz	United States	29
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.tar.gz	United States	29
+/mediawiki/1.8/mediawiki-1.8.4.tar.gz	United States	28
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	India	28
+/mediawiki/1.20/mediawiki-1.20.8.patch.gz	United States	28
+/mediawiki/1.6/mediawiki-1.6.11.tar.gz	United States	28
+/mediawiki/1.5/mediawiki-1.5.5.tar.gz	United States	28
+/mediawiki/1.14/mediawiki-1.14.0.patch.gz	United States	28
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Taiwan	28
+/mediawiki/1.23/mediawiki-1.23.0-rc.1.tar.gz	United States	28
+/mediawiki/1.21/mediawiki-1.21.0.tar.gz	United States	28
+/mediawiki/1.4/mediawiki-1.4.15.tar.gz	United States	28
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Malaysia	28
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Denmark	28
+/mediawiki/1.17/mediawiki-1.17.0.patch.gz	United States	28
+/mediawiki/1.13/mediawiki-1.13.0.patch.gz	United States	28
+/mediawiki/1.15/mediawiki-1.15.0.patch.gz	United States	28
+/mediawiki/1.4/mediawiki-1.4.13.tar.gz	United States	28
+/mediawiki/1.7/mediawiki-1.7.3.tar.gz	United States	28
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Ireland	28
+/mediawiki/1.4/mediawiki-1.4.4.tar.gz	United States	28
+/mediawiki/1.23/mediawiki-1.23.0-rc.1.patch.gz	United States	28
+/mediawiki/1.5/mediawiki-1.5.6.tar.gz	United States	28
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Egypt	28
+/mediawiki/1.9/mediawiki-1.9.1.tar.gz	United States	28
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Portugal	28
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	United States	28
+/mediawiki/1.18/mediawiki-1.18.0.tar.gz	United States	28
+/mediawiki/1.19/mediawiki-1.19.10.patch.gz	United States	27
+/mediawiki/1.21/mediawiki-1.21.0.patch.gz	United States	27
+/mediawiki/1.6/mediawiki-1.6.10.tar.gz	United States	27
+/mediawiki/1.11/mediawiki-1.11.1.tar.gz	United States	27
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Hungary	27
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Hungary	27
+/mediawiki/1.10/mediawiki-1.10.0rc1.tar.gz	United States	27
+/mediawiki/1.14/mediawiki-1.14.0.tar.gz	United States	27
+/mediawiki/1.19/mediawiki-1.19.10.tar.gz	United States	27
+/mediawiki/1.18/mediawiki-1.18.0.patch.gz	United States	27
+/mediawiki/1.22/mediawiki-1.22.0rc0.tar.gz	United States	27
+/mediawiki/1.12/mediawiki-1.12.0.patch.gz	United States	27
+/mediawiki/1.12/mediawiki-1.12.0.tar.gz	United States	27
+/mediawiki/1.8/mediawiki-1.8.2.tar.gz	United States	27
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	France	26
+/mediawiki/1.11/mediawiki-1.11.2.tar.gz	United States	26
+/mediawiki/1.3/mediawiki-1.3.18.tar.gz	United States	26
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Unknown	26
+/mediawiki/1.5/mediawiki-1.5.8.tar.gz	United States	26
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Japan	25
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Philippines	25
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	United States	25
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Belgium	24
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Colombia	24
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	United States	24
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Angola	24
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Kazakhstan	24
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Finland	24
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Brazil	24
+/mediawiki/1.8/mediawiki-1.8.5.tar.gz	United States	24
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Unknown	23
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Unknown	23
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Venezuela	23
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	New Zealand	23
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Egypt	23
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Iran	23
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Angola	22
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	United States	22
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Taiwan	22
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Myanmar [Burma]	22
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Tunisia	22
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Portugal	22
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Mexico	22
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Denmark	22
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Morocco	21
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Russia	21
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Chile	21
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Pakistan	21
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Spain	21
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Madagascar	21
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Brazil	21
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ireland	21
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Argentina	21
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Hong Kong	20
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	China	20
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Yemen	20
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Netherlands	20
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	United States	19
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Romania	19
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Canada	18
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Bulgaria	18
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Peru	18
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Russia	18
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ethiopia	18
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Netherlands	18
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Hong Kong	17
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	China	17
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Indonesia	17
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Algeria	17
+/mobile/android/wikipedia/betas/wikipedia-2.0.102-beta-2015-05-14.mapping.tar.gz	China	17
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	United States	17
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Spain	17
+/mediawiki/1.12/mediawiki-1.12.1.tar.gz	United States	17
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Philippines	17
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Colombia	16
+/mediawiki/1.12/mediawiki-1.12.1.patch.gz	United States	16
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ethiopia	16
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Germany	16
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Pakistan	16
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	India	15
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	New Zealand	15
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Madagascar	15
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Iran	15
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Greece	15
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	China	15
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	United States	15
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Philippines	14
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Germany	14
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Netherlands	14
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Nepal	14
+/mediawiki/1.18/mediawiki-1.18.1.tar.gz	Czech Republic	14
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Peru	14
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Bangladesh	14
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Indonesia	14
+/mediawiki/1.23/mediawiki-1.23.2.tar.gz	Netherlands	14
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Nepal	14
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Slovenia	13
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Sweden	13
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Morocco	13
+/mediawiki/1.18/mediawiki-1.18.1.tar.gz	France	13
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Australia	13
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Italy	13
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Japan	13
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	United States	12
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Germany	12
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Netherlands	12
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	China	12
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Cuba	12
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Malaysia	12
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Iraq	12
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Vietnam	12
+/mediawiki/1.22/mediawiki-1.22.15.patch.gz	United States	12
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Sudan	11
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Republic of Korea	11
+/mediawiki/1.23/mediawiki-1.23.2.tar.gz	United States	11
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	China	11
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Japan	11
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Chile	11
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Spain	11
+/mediawiki/1.17/mediawiki-1.17.0rc1.tar.gz	United States	11
+/mediawiki/1.22/mediawiki-1.22.6.tar.gz	United States	11
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	United States	11
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Morocco	11
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Egypt	10
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Angola	10
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Sri Lanka	10
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	France	10
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Bulgaria	10
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	United States	10
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Austria	10
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	United States	10
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Slovak Republic	10
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	United States	10
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Belarus	10
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Taiwan	10
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Costa Rica	10
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Sudan	9
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Austria	9
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Sri Lanka	9
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Belarus	9
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Unknown	9
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Saudi Arabia	9
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Vietnam	9
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Poland	9
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Yemen	9
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	China	9
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Germany	9
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Algeria	9
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Germany	9
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Algeria	9
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Republic of Lithuania	9
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Ukraine	9
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Panama	8
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Colombia	8
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Botswana	8
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Malaysia	8
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Saudi Arabia	8
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	France	8
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Slovenia	8
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Nigeria	8
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	United States	8
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Germany	8
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Republic of Korea	8
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Tunisia	8
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Italy	8
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Zimbabwe	8
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Myanmar [Burma]	8
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	United Kingdom	8
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Germany	8
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ecuador	8
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Ethiopia	8
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Bangladesh	8
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Pakistan	8
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	United States	8
+/mediawiki/1.22/mediawiki-1.22.15.tar.gz	United States	8
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Australia	8
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Australia	8
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Switzerland	7
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Poland	7
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Kenya	7
+/mediawiki/1.15/mediawiki-1.15.0.tar.gz	France	7
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Switzerland	7
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Uganda	7
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Finland	7
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Czech Republic	7
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Canada	7
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	South Africa	7
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Malaysia	7
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Yemen	7
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Bangladesh	7
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Egypt	7
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	China	7
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Russia	7
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Angola	7
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Pakistan	7
+/mediawiki/1.23/mediawiki-1.23.4.patch.gz	United States	7
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	France	7
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Morocco	7
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	Germany	7
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	France	7
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Germany	7
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Singapore	7
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Kazakhstan	7
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Iran	7
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Poland	7
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Brazil	7
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Latvia	7
+/mediawiki/1.23/mediawiki-1.23.2.tar.gz	Germany	7
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Tunisia	7
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Guatemala	7
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Madagascar	6
+/mediawiki/1.23/mediawiki-1.23.8.tar.gz	United States	6
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	United States	6
+/mediawiki/1.22/mediawiki-1.22.14.patch.gz	Austria	6
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Estonia	6
+/mediawiki/1.19/mediawiki-1.19.15.tar.gz	United States	6
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Norway	6
+/mediawiki//1.24/mediawiki-1.24.2.tar.gz	United States	6
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	France	6
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Germany	6
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Philippines	6
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	United Kingdom	6
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	France	6
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Republic of Korea	6
+/mediawiki/1.9/mediawiki-1.9.2.tar.gz	United States	6
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	United Kingdom	6
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Uruguay	6
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Czech Republic	6
+/mediawiki/1.22/mediawiki-1.22.8.tar.gz	Denmark	6
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ghana	6
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Estonia	6
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Austria	6
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	India	6
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Hungary	6
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	United States	6
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	South Africa	6
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Canada	6
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Luxembourg	6
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ghana	6
+/mediawiki/1.4/mediawiki-1.4.5.tar.gz	United States	6
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Estonia	6
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Taiwan	6
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Russia	6
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	Latvia	6
+/mediawiki/1.18/mediawiki-1.18.1.tar.gz	United States	6
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Brazil	6
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Singapore	6
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	United Kingdom	6
+/mediawiki/1.21/mediawiki-1.21.11.tar.gz	United States	6
+/mediawiki/1.23/mediawiki-1.23.2.patch.gz	United States	6
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	France	5
+/mediawiki/1.23/mediawiki-1.23.7.tar.gz	United States	5
+/mediawiki/1.9/mediawiki-1.9.6.tar.gz	Morocco	5
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Mexico	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Iraq	5
+/mediawiki/1.13/mediawiki-1.13.3.tar.gz	United States	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Luxembourg	5
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Taiwan	5
+/mediawiki/1.12/mediawiki-1.12.1.patch.gz	United Kingdom	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Saudi Arabia	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Brazil	5
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Morocco	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Turkey	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Taiwan	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Russia	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Argentina	5
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Algeria	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Vietnam	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Kenya	5
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	United States	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Iraq	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Angola	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ethiopia	5
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Iran	5
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Germany	5
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Slovenia	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Bermuda	5
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	United Kingdom	5
+/mediawiki/1.15/mediawiki-1.15.4.tar.gz	Brazil	5
+/mediawiki/1.19/mediawiki-1.19.21.tar.gz	United States	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Dominican Republic	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Cyprus	5
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	Brazil	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Tanzania	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Senegal	5
+/mediawiki/1.23/mediawiki-1.23.1.patch.gz	United States	5
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Taiwan	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Kenya	5
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Kazakhstan	5
+/mediawiki/1.15/mediawiki-1.15.5.tar.gz	Germany	5
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Netherlands	5
+/mediawiki/1.24/mediawiki-i18n-1.24.2.patch.gz	United States	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mozambique	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Croatia	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Albania	5
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	China	5
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Spain	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Botswana	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Trinidad and Tobago	5
+/mediawiki/1.15/mediawiki-1.15.2.patch.gz	Germany	5
+/mediawiki/1.22/mediawiki-1.22.11.tar.gz	United States	5
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Cambodia	5
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	India	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	United Arab Emirates	5
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Luxembourg	5
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Serbia	5
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Chile	5
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Brazil	5
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Costa Rica	5
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	South Africa	5
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Ghana	5
+/mediawiki/1.22/mediawiki-1.22.13.patch.gz	United States	5
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Algeria	4
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	France	4
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Spain	4
+/mediawiki/1.17/mediawiki-1.17.2.tar.gz	United States	4
+/mobile/android/wikipedia/betas/wikipedia-2.0.102-beta-2015-05-14.mapping.tar.gz	United States	4
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Angola	4
+/mediawiki/1.22/mediawiki-1.22.5.tar.gz	India	4
+/mediawiki/1.23/mediawiki-1.23.3.patch.gz	United States	4
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Slovak Republic	4
+/mediawiki/1.15/mediawiki-1.15.5.patch.gz	Germany	4
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Romania	4
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Brazil	4
+/mediawiki/1.23/mediawiki-1.23.6.patch.gz	United States	4
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Madagascar	4
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Romania	4
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Costa Rica	4
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Thailand	4
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	France	4
+/mediawiki/1.10/mediawiki-1.10.0.tar.gz	United Kingdom	4
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	United States	4
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Hong Kong	4
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	France	4
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Hong Kong	4
+/mediawiki/1.22/mediawiki-1.22.15.tar.gz	France	4
+/mediawiki/1.22/mediawiki-1.22.11.tar.gz	Unknown	4
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Brazil	4
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Bangladesh	4
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Saudi Arabia	4
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Hong Kong	4
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Canada	4
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Thailand	4
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Cuba	4
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Philippines	4
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Australia	4
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Nigeria	4
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	United States	4
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Japan	4
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Ireland	4
+/mediawiki/1.6/mediawiki-1.6.3.tar.gz	United States	4
+/mediawiki/1.23/mediawiki-core-1.23.6.tar.gz	Austria	4
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Taiwan	4
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Belgium	4
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Italy	4
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	India	4
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Slovak Republic	4
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	India	4
+/mediawiki/1.23/mediawiki-1.23.5.patch.gz	United States	4
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Mexico	4
+/mediawiki/1.18/mediawiki-1.18.1.patch.gz	Czech Republic	4
+/mediawiki/1.23/mediawiki-1.23.8.patch.gz	Netherlands	4
+/mediawiki/1.22/mediawiki-1.22.8.tar.gz	United States	4
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Vietnam	4
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Japan	4
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Namibia	4
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Japan	4
+/mediawiki/1.13/mediawiki-1.13.4.tar.gz	United States	4
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Taiwan	4
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Angola	4
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Finland	4
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Kazakhstan	4
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	Spain	4
+/mediawiki/1.21/mediawiki-1.21.3.tar.gz	China	4
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Venezuela	4
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Serbia	4
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Palestine	4
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	El Salvador	4
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Venezuela	4
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	Bulgaria	4
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Singapore	4
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	United Kingdom	4
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Israel	4
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Vietnam	4
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Israel	4
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	France	4
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Iran	4
+/mediawiki/1.16/mediawiki-1.16.4.tar.gz	United States	4
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ecuador	4
+/mediawiki/1.13/mediawiki-i18n-1.13.4.patch.gz	India	4
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	Netherlands	4
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	India	4
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Cambodia	4
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	China	4
+/mediawiki/1.21/mediawiki-1.21.0.patch.gz	United Kingdom	4
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Zimbabwe	4
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Spain	4
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Kuwait	4
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	Spain	4
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	United States	4
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Ukraine	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Republic of Moldova	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Guatemala	3
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Madagascar	3
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Belgium	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Denmark	3
+/mediawiki/1.15/mediawiki-1.15.4.tar.gz	Taiwan	3
+/mediawiki/snapshot/mediawiki-snapshot-20060316.tar.gz	Unknown	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	United Arab Emirates	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Suriname	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Réunion	3
+/mediawiki/1.22/mediawiki-1.22.4.patch.gz	Canada	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Republic of Lithuania	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Latvia	3
+/mediawiki/1.14/mediawiki-1.14.1.tar.gz	Germany	3
+/mediawiki/1.15/mediawiki-1.15.0.patch.gz	United Kingdom	3
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	United Kingdom	3
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	Brazil	3
+/mediawiki/1.13/mediawiki-1.13.1.patch.gz	India	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Portugal	3
+/mediawiki/1.21/mediawiki-core-1.21.11.tar.gz	United States	3
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Ireland	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Mali	3
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Hungary	3
+/mediawiki/1.21/mediawiki-1.21.11.patch.gz	United States	3
+/mediawiki/1.13/mediawiki-1.13.2.tar.gz	United States	3
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Turkey	3
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	United States	3
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	China	3
+/mediawiki/1.19/mediawiki-1.19.19.patch.gz	United States	3
+/mediawiki/1.22/mediawiki-1.22.5.tar.gz	China	3
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Latvia	3
+/mediawiki/1.23/mediawiki-1.23.8.patch.gz	Germany	3
+/mediawiki/1.6/mediawiki-1.6.12.tar.gz	Germany	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Zimbabwe	3
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Pakistan	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ivory Coast	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Republic of Korea	3
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Angola	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Iraq	3
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Indonesia	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Germany	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Nepal	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Hungary	3
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Germany	3
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Republic of Korea	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Thailand	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	China	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Venezuela	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Myanmar [Burma]	3
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Morocco	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Peru	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ethiopia	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	South Africa	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ukraine	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Sweden	3
+/mediawiki/1.15/mediawiki-1.15.4.tar.gz	United States	3
+/mediawiki/1.15/mediawiki-i18n-1.15.0.patch.gz	China	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Macedonia	3
+/mediawiki/1.6/mediawiki-1.6.8.tar.gz	United States	3
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	France	3
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Russia	3
+/mediawiki/1.24/mediawiki-1.24.0-rc.3.tar.gz	Czech Republic	3
+/mediawiki/1.24/mediawiki-1.24.1.patch.gz	United States	3
+/mediawiki/1.19/mediawiki-1.19.23.tar.gz	United States	3
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	South Africa	3
+/mediawiki/1.23/mediawiki-i18n-1.23.9.patch.gz	Germany	3
+/mediawiki/1.19/mediawiki-1.19.21.patch.gz	United States	3
+/mediawiki/1.19/mediawiki-1.19.21.patch.gz	Austria	3
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2014-12-19.mapping.tar.gz	Angola	3
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Greece	3
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	China	3
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Unknown	3
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Mexico	3
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Austria	3
+/mediawiki/1.23/mediawiki-1.23.0-rc.3.tar.gz	India	3
+/mediawiki/1.11/mediawiki-1.11.2.tar.gz	France	3
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Unknown	3
+/mediawiki/1.23/mediawiki-1.23.0-rc.2.patch.gz	United States	3
+/mediawiki/1.22/mediawiki-1.22.13.tar.gz	United States	3
+/mediawiki/1.19/mediawiki-1.19.18.patch.gz	United States	3
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	Czech Republic	3
+/mediawiki/1.22/mediawiki-1.22.6.patch.gz	United Kingdom	3
+/mediawiki/1.22/mediawiki-1.22.3.tar.gz	United States	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Brunei	3
+/mediawiki/1.16/mediawiki-1.16.1.tar.gz	China	3
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Indonesia	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Gabon	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Georgia	3
+/mediawiki/1.13/mediawiki-1.13.0.tar.gz	Germany	3
+/mediawiki/1.14/mediawiki-1.14.0.tar.gz	Germany	3
+/mediawiki/1.10/mediawiki-1.10.0rc2.tar.gz	United States	3
+/mediawiki/1.22/mediawiki-core-1.22.4.tar.gz	India	3
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Germany	3
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	United States	3
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Czech Republic	3
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Russia	3
+/mediawiki/1.23/mediawiki-1.23.0-rc.3.patch.gz	United States	3
+/mediawiki/1.24/mediawiki-core-1.24.2.tar.gz	United States	3
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Republic of Korea	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Jamaica	3
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Russia	3
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Ukraine	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Angola	3
+/mediawiki/1.19/mediawiki-core-1.19.17.tar.gz	India	3
+/mediawiki/1.22/mediawiki-1.22.11.patch.gz	United States	3
+/mediawiki/1.9/mediawiki-1.9.2.tar.gz	Germany	3
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	Brazil	3
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	Germany	3
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Malaysia	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Macao	3
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	Czech Republic	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Afghanistan	3
+/mediawiki/1.13/mediawiki-1.13.1.tar.gz	India	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Nigeria	3
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	France	3
+/mediawiki/1.21/mediawiki-1.21.11.patch.gz	Unknown	3
+/mediawiki/1.22/mediawiki-1.22.12.patch.gz	United States	3
+/mediawiki/1.24/mediawiki-1.24.0-rc.2.tar.gz	Czech Republic	3
+/mediawiki/1.16/mediawiki-1.16.5.patch.gz	Czech Republic	3
+/mediawiki/1.23/mediawiki-core-1.23.9.tar.gz	France	3
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	Saudi Arabia	3
+/mediawiki/1.23/mediawiki-core-1.23.6.tar.gz	United States	3
+/mediawiki/1.22/mediawiki-1.22.11.patch.gz	Unknown	3
+/mediawiki/1.15/mediawiki-i18n-1.15.2.patch.gz	Czech Republic	3
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	China	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Qatar	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Belgium	3
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Greece	3
+/mediawiki/1.22/mediawiki-1.22.15.tar.gz	India	3
+/mediawiki/1.21/mediawiki-1.21.9.tar.gz	United States	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Congo	3
+/mediawiki/1.13/mediawiki-1.13.0.patch.gz	India	3
+/mediawiki/1.23/mediawiki-1.23.2.tar.gz	Spain	3
+/mediawiki/1.24/mediawiki-i18n-1.24.2.patch.gz	Unknown	3
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	France	3
+/mediawiki/1.19/mediawiki-1.19.9.tar.gz	United States	3
+/mediawiki/1.22/mediawiki-1.22.11.tar.gz	India	3
+/mediawiki/1.24/mediawiki-core-1.24.0-rc.0.tar.gz	Czech Republic	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Jamaica	3
+/mediawiki/1.22/mediawiki-core-1.22.13.tar.gz	United States	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Uzbekistan	3
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	Germany	3
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Turkey	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Tanzania	3
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Russia	3
+/mediawiki/1.13/mediawiki-i18n-1.13.5.patch.gz	India	3
+/mediawiki/1.22/mediawiki-1.22.0rc1.tar.gz	India	3
+/mediawiki/1.22/mediawiki-1.22.5.tar.gz	United States	3
+/mediawiki/1.22/mediawiki-1.22.4.tar.gz	Japan	3
+/mediawiki/1.23/mediawiki-1.23.7.patch.gz	Germany	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Argentina	3
+/mediawiki/1.4/mediawiki-1.4.7.tar.gz	United States	3
+/mediawiki/1.23/mediawiki-1.23.4.patch.gz	Germany	3
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Germany	3
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	United Kingdom	3
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Turkey	3
+/mediawiki/1.23/mediawiki-1.23.5.patch.gz	United Kingdom	3
+/mediawiki/1.9/mediawiki-1.9.1.tar.gz	France	3
+/mediawiki/1.23/mediawiki-1.23.2.patch.gz	Germany	3
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	India	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ivory Coast	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Kuwait	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Algeria	3
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Lebanon	3
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Germany	3
+/mediawiki/1.8/mediawiki-1.8.2.tar.gz	Germany	3
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Paraguay	3
+/mediawiki/1.5/mediawiki-1.5.8.tar.gz	Germany	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Bangladesh	3
+/mediawiki/1.10/mediawiki-1.10.2.tar.gz	United States	3
+/mediawiki/1.15/mediawiki-1.15.4.tar.gz	Germany	3
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	China	3
+/mediawiki/1.23/mediawiki-1.23.0-rc.2.tar.gz	United States	3
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Colombia	3
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Indonesia	3
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Philippines	3
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Netherlands	3
+/mediawiki/1.22/mediawiki-1.22.12.tar.gz	United States	3
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	Russia	3
+/mediawiki/1.19/mediawiki-1.19.9.tar.gz	Germany	3
+/mediawiki/1.23/mediawiki-core-1.23.9.tar.gz	Germany	3
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	South Africa	3
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	United States	3
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Russia	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Hungary	3
+/mediawiki/1.15/mediawiki-1.15.0.patch.gz	Czech Republic	3
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Ukraine	3
+/mediawiki/1.23/mediawiki-1.23.8.tar.gz	Unknown	3
+/mediawiki/1.23/mediawiki-1.23.0-rc.2.tar.gz	India	3
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Vanuatu	2
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	India	2
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	United Kingdom	2
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Italy	2
+/mediawiki/1.16/mediawiki-1.16.2.patch.gz	Germany	2
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Chile	2
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Australia	2
+/mediawiki/1.15/mediawiki-1.15.5.tar.gz	United States	2
+/mediawiki/1.15/mediawiki-1.15.3.tar.gz	Hungary	2
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	France	2
+/mediawiki/1.6/mediawiki-1.6.12.tar.gz	France	2
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.patch.gz	Czech Republic	2
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	Romania	2
+/mediawiki/1.13/mediawiki-1.13.1.tar.gz	Canada	2
+/mediawiki/1.13/mediawiki-1.13.0.patch.gz	Germany	2
+/mediawiki/1.12/mediawiki-1.12.4.patch.gz	Czech Republic	2
+/mediawiki/1.20/mediawiki-core-1.20.8.tar.gz	United States	2
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	Republic of Korea	2
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	Brazil	2
+/mediawiki//1.19/mediawiki-1.19.9.tar.gz	Czech Republic	2
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	India	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	New Zealand	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Serbia	2
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	Germany	2
+/mediawiki/1.19/mediawiki-1.19.23.tar.gz	Germany	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Namibia	2
+/mediawiki/1.19/mediawiki-1.19.19.tar.gz	Unknown	2
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	France	2
+/mediawiki/1.4/mediawiki-1.4.15.tar.gz	France	2
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Germany	2
+/mediawiki/1.23/mediawiki-1.23.2.tar.gz	Pakistan	2
+/mediawiki/1.5/mediawiki-1.5.2.tar.gz	United Kingdom	2
+/mediawiki/snapshot/mediawiki-snapshot-20060317.tar.gz	Angola	2
+/mediawiki/1.22/mediawiki-1.22.7.tar.gz	France	2
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	Germany	2
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Republic of Korea	2
+/mediawiki/1.18/mediawiki-1.18.0.tar.gz	China	2
+http://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Bangladesh	2
+/mediawiki/1.17/mediawiki-i18n-1.17.0rc1.patch.gz	Czech Republic	2
+/mediawiki/1.17/mediawiki-1.17.5.patch.gz	United States	2
+/mediawiki/1.17/mediawiki-1.17.3.tar.gz	United States	2
+/mediawiki/1.12/mediawiki-1.12.2.tar.gz	United States	2
+/mediawiki/1.22/mediawiki-1.22.5.tar.gz	Germany	2
+/mediawiki/1.22/mediawiki-1.22.4.tar.gz	India	2
+/mediawiki/1.17/mediawiki-1.17.5.tar.gz	United States	2
+/mediawiki/1.22/mediawiki-1.22.14.patch.gz	United States	2
+/mediawiki/1.17/mediawiki-1.17.0rc1.tar.gz	Poland	2
+/mediawiki/1.17/mediawiki-1.17.0.patch.gz	Czech Republic	2
+/mediawiki/1.16/mediawiki-i18n-1.16.5.patch.gz	Czech Republic	2
+http://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Pakistan	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Cameroon	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Mauritania	2
+/mediawiki/1.15/mediawiki-1.15.3.patch.gz	Germany	2
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Russia	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Kyrgyzstan	2
+/mediawiki/1.14/mediawiki-1.14.1.tar.gz	France	2
+/mediawiki/1.3/mediawiki-1.3.18.tar.gz	Iran	2
+/mediawiki/1.13/mediawiki-1.13.0.tar.gz	India	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Bulgaria	2
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Russia	2
+/mediawiki/1.23/mediawiki-1.23.7.tar.gz	France	2
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Kuwait	2
+/mediawiki//1.18/mediawiki-1.18.2.patch.gz	United Kingdom	2
+/mediawiki//1.17/mediawiki-i18n-1.17.3.patch.gz	Czech Republic	2
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	Venezuela	2
+/mediawiki/1.20/mediawiki-i18n-1.20.8.patch.gz	Brazil	2
+/mediawiki/1.20/mediawiki-1.20.8.patch.gz	India	2
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	Azerbaijan	2
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	United Kingdom	2
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Kenya	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Pakistan	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Egypt	2
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	Ireland	2
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Thailand	2
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Canada	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Oman	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mauritius	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Sri Lanka	2
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	China	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Netherlands	2
+/mediawiki/1.16/mediawiki-1.16.4.tar.gz	United Kingdom	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Nepal	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mexico	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Japan	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Spain	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Italy	2
+/mediawiki/1.11/mediawiki-1.11.2.tar.gz	Angola	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Japan	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ireland	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Hashemite Kingdom of Jordan	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Greece	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ghana	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ghana	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Angola	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Afghanistan	2
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Bangladesh	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Vietnam	2
+/mobile/android/wikipedia/betas/wikipedia-2.0.102-beta-2015-05-14.mapping.tar.gz	Angola	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	United Kingdom	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Tunisia	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Tanzania	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Australia	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Russia	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Philippines	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Malaysia	2
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Germany	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Philippines	2
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Pakistan	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	France	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Algeria	2
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	China	2
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Kenya	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Netherlands	2
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	China	2
+/mediawiki/1.22/mediawiki-1.22.6.tar.gz	China	2
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	Pakistan	2
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	Kenya	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Turkey	2
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Germany	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Zimbabwe	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Yemen	2
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	China	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Pakistan	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	United Kingdom	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Tunisia	2
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Germany	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Taiwan	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Sudan	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Republic of Korea	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Poland	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Norway	2
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Japan	2
+/mediawiki/1.17/mediawiki-i18n-1.17.3.patch.gz	United States	2
+/mediawiki/1.22/mediawiki-core-1.22.9.tar.gz	India	2
+/mediawiki/1.17/mediawiki-1.17.4.tar.gz	Czech Republic	2
+/mediawiki/1.22/mediawiki-core-1.22.2.tar.gz	India	2
+/mediawiki/1.17/mediawiki-1.17.1.tar.gz	United States	2
+/mediawiki/1.22/mediawiki-core-1.22.10.tar.gz	India	2
+/mediawiki/1.4/mediawiki-1.4.7.tar.gz	France	2
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Netherlands	2
+/mediawiki/1.22/mediawiki-1.22.7.patch.gz	Czech Republic	2
+/mediawiki/1.16/mediawiki-1.16.4.patch.gz	India	2
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	Germany	2
+/mediawiki/1.22/mediawiki-1.22.2.tar.gz	India	2
+/mediawiki/1.22/mediawiki-1.22.11.tar.gz	France	2
+/mediawiki/1.15/mediawiki-1.15.5.patch.gz	United States	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Malta	2
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	Malaysia	2
+/mediawiki/1.13/mediawiki-1.13.2.tar.gz	China	2
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Slovenia	2
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Pakistan	2
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	India	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Papua New Guinea	2
+/mediawiki/1.20/mediawiki-1.20.8.patch.gz	Brazil	2
+/mobile/android/wikipedia/betas/wikipedia-2.0.102-beta-2015-05-14.mapping.tar.gz	Angola	2
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	United States	2
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Spain	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ivory Coast	2
+/mediawiki/1.19/mediawiki-core-1.19.13.tar.gz	India	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Serbia	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Tunisia	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	South Africa	2
+/mediawiki/1.19/mediawiki-1.19.22.tar.gz	Morocco	2
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Angola	2
+/mediawiki/1.19/mediawiki-1.19.19.patch.gz	Unknown	2
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Chile	2
+/mediawiki/1.23/mediawiki-1.23.6.patch.gz	Germany	2
+/mediawiki/1.23/mediawiki-1.23.3.patch.gz	Germany	2
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	United Kingdom	2
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Saudi Arabia	2
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Germany	2
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	India	2
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Slovak Republic	2
+/mediawiki/1.3/mediawiki-1.3.15.tar.gz	India	2
+/mediawiki/1.18/mediawiki-1.18.0beta1.tar.gz	India	2
+/mediawiki/1.18/mediawiki-1.18.0.tar.gz	Germany	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Niger	2
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	United Kingdom	2
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	South Africa	2
+/mediawiki/1.22/mediawiki-1.22.14.tar.gz	India	2
+/mediawiki/1.22/mediawiki-1.22.15.patch.gz	Germany	2
+/mediawiki/1.3/mediawiki-1.3.15.tar.gz	France	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Bolivia	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Nicaragua	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Guatemala	2
+/mediawiki//1.18/mediawiki-1.18.2.tar.gz	United Kingdom	2
+/mediawiki/1.22/mediawiki-1.22.3.tar.gz	Republic of Korea	2
+/mediawiki/1.17/mediawiki-1.17.0rc1.tar.gz	Italy	2
+/mediawiki/1.22/mediawiki-1.22.8.patch.gz	India	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Bosnia and Herzegovina	2
+/mediawiki/1.22/mediawiki-1.22.9.tar.gz	France	2
+/mediawiki/1.23/mediawiki-1.23.5.patch.gz	Germany	2
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Philippines	2
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Italy	2
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Unknown	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	New Zealand	2
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Ireland	2
+/mediawiki/1.18/mediawiki-1.18.4.patch.gz	Czech Republic	2
+/mediawiki/1.22/mediawiki-core-1.22.0rc1.tar.gz	India	2
+/mediawiki/1.19/mediawiki-1.19.22.tar.gz	France	2
+/mediawiki/1.22/mediawiki-core-1.22.14.tar.gz	India	2
+/mediawiki/1.18/mediawiki-1.18.6.patch.gz	India	2
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Republic of Lithuania	2
+/mediawiki/1.22/mediawiki-core-1.22.6.tar.gz	India	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Tajikistan	2
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	India	2
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Iran	2
+/mediawiki/1.19/mediawiki-1.19.15.patch.gz	United Kingdom	2
+/mediawiki/1.22/mediawiki-1.22.11.patch.gz	India	2
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Mexico	2
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	China	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Chile	2
+/mediawiki/1.19/mediawiki-1.19.19.tar.gz	Venezuela	2
+/mediawiki/1.23/mediawiki-1.23.8.patch.gz	United States	2
+/mediawiki/1.16/mediawiki-1.16.0beta2.patch.gz	Czech Republic	2
+/mediawiki/1.22/mediawiki-1.22.3.tar.gz	India	2
+/mediawiki/1.19/mediawiki-core-1.19.20.tar.gz	United States	2
+/mediawiki/1.23/mediawiki-core-1.23.6.tar.gz	Unknown	2
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	China	2
+/mediawiki/1.23/mediawiki-1.23.4.patch.gz	Unknown	2
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	Cambodia	2
+/mediawiki/1.4/mediawiki-1.4.5.tar.gz	Angola	2
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Kuwait	2
+/mediawiki/snapshot/mediawiki-snapshot-20060317.tar.gz	Unknown	2
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	Canada	2
+/mediawiki/1.23/mediawiki-1.23.1.patch.gz	Saudi Arabia	2
+/mediawiki/1.23/mediawiki-1.23.1.patch.gz	Iran	2
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Republic of Korea	2
+/mediawiki/1.21/mediawiki-i18n-1.21.0.patch.gz	India	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Somalia	2
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	Malaysia	2
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Mexico	2
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Philippines	2
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Ghana	2
+/mediawiki/1.13/mediawiki-1.13.1.i18n.patch.gz	Czech Republic	2
+/mediawiki/1.22/mediawiki-core-1.22.5.tar.gz	India	2
+/mediawiki/1.15/mediawiki-1.15.1.patch.gz	Czech Republic	2
+/mediawiki/1.23/mediawiki-1.23.2.tar.gz	Saudi Arabia	2
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Burundi	2
+/mediawiki/1.22/mediawiki-core-1.22.0rc0.tar.gz	India	2
+/mediawiki/1.13/mediawiki-1.13.0rc2.tar.gz	India	2
+/mediawiki/1.22/mediawiki-1.22.7.tar.gz	United States	2
+/mediawiki/1.13/mediawiki-1.13.0rc2.tar.gz	United States	2
+/mediawiki/1.15/mediawiki-1.15.3.tar.gz	Germany	2
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	India	2
+/mediawiki/1.16/mediawiki-1.16.0beta2.tar.gz	United States	2
+/mediawiki/1.19/mediawiki-1.19.16.tar.gz	United States	2
+/mediawiki/1.5/mediawiki-1.5.8.tar.gz	Unknown	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Saudi Arabia	2
+/mediawiki/1.22/mediawiki-1.22.14.patch.gz	Germany	2
+/mediawiki/1.13/mediawiki-1.13.1.tar.gz	United States	2
+/mediawiki/1.13/mediawiki-1.13.1.i18n.patch.gz	India	2
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Unknown	2
+/mediawiki/1.18/mediawiki-1.18.0.tar.gz	India	2
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Spain	2
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	Ivory Coast	2
+/mediawiki/1.3/mediawiki-1.3.15.tar.gz	Iran	2
+/mediawiki/1.15/mediawiki-1.15.0.tar.gz	Germany	2
+/mediawiki/1.19/mediawiki-core-1.19.18.tar.gz	India	2
+/mediawiki/1.17/mediawiki-1.17.3.patch.gz	United States	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Bosnia and Herzegovina	2
+/mediawiki/1.18/mediawiki-1.18.0.patch.gz	Cambodia	2
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Taiwan	2
+/mediawiki/1.22/mediawiki-core-1.22.3.tar.gz	India	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Czech Republic	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Honduras	2
+/mediawiki/1.24/mediawiki-1.24.0-rc.2.tar.gz	United States	2
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Canada	2
+/mediawiki/1.22/mediawiki-core-1.22.11.tar.gz	India	2
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	China	2
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Norway	2
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	Japan	2
+/mediawiki/1.22/mediawiki-1.22.9.tar.gz	Saudi Arabia	2
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Australia	2
+/mediawiki/1.22/mediawiki-1.22.9.patch.gz	Saudi Arabia	2
+/mediawiki/1.19/mediawiki-1.19.23.patch.gz	Unknown	2
+/mediawiki/1.13/mediawiki-1.13.3.tar.gz	China	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Nicaragua	2
+/mediawiki/1.24/mediawiki-1.24.0-rc.0.tar.gz	Czech Republic	2
+/mediawiki/1.13/mediawiki-1.13.5.tar.gz	Germany	2
+/mediawiki/1.10/mediawiki-1.10.0rc1.tar.gz	Czech Republic	2
+/mediawiki/1.22/mediawiki-1.22.14.patch.gz	Ireland	2
+/mediawiki/1.13/mediawiki-1.13.4.tar.gz	Russia	2
+/mediawiki/1.18/mediawiki-1.18.4.tar.gz	United States	2
+/mediawiki/1.23/mediawiki-core-1.23.9.tar.gz	United States	2
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	Germany	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Togo	2
+/mediawiki/1.15/mediawiki-i18n-1.15.0.patch.gz	Czech Republic	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Panama	2
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Morocco	2
+/mediawiki/1.22/mediawiki-core-1.22.1.tar.gz	India	2
+/mediawiki/1.22/mediawiki-core-1.22.0rc3.tar.gz	India	2
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Iran	2
+/mediawiki/1.22/mediawiki-1.22.1.tar.gz	United States	2
+/mediawiki/1.17/mediawiki-1.17.1.patch.gz	United States	2
+/mediawiki/1.17/mediawiki-1.17.0rc1.patch.gz	United States	2
+/mediawiki/1.17/mediawiki-1.17.0beta1.tar.gz	United States	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Djibouti	2
+/mediawiki/1.16/mediawiki-i18n-1.16.2.patch.gz	United Kingdom	2
+/mediawiki/1.16/mediawiki-i18n-1.16.2.patch.gz	Germany	2
+http://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Nigeria	2
+/mediawiki/1.16/mediawiki-1.16.0beta3.patch.gz	Czech Republic	2
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	Ukraine	2
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Austria	2
+/mediawiki/1.15/mediawiki-1.15.5.tar.gz	France	2
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Netherlands	2
+/mediawiki/1.3/mediawiki-1.3.13.tar.gz	Iran	2
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Japan	2
+/mediawiki/1.21/mediawiki-1.21.11.tar.gz	Germany	2
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	India	2
+/mediawiki/1.23/mediawiki-core-1.23.7.tar.gz	United States	2
+/mediawiki/1.19/mediawiki-core-1.19.19.tar.gz	India	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Albania	2
+/mediawiki/1.23/mediawiki-1.23.8.tar.gz	India	2
+/mediawiki/1.19/mediawiki-1.19.9.patch.gz	Spain	2
+/mediawiki/1.23/mediawiki-1.23.8.patch.gz	Unknown	2
+/mediawiki/1.23/mediawiki-1.23.7.tar.gz	Netherlands	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Hong Kong	2
+/mediawiki/1.23/mediawiki-1.23.5.patch.gz	Netherlands	2
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	Saudi Arabia	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Qatar	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Réunion	2
+/mediawiki/1.22/mediawiki-core-1.22.8.tar.gz	India	2
+/mediawiki/1.23/mediawiki-i18n-1.23.7.patch.gz	Germany	2
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	Russia	2
+/mediawiki/1.14/mediawiki-1.14.1.tar.gz	Ukraine	2
+/mediawiki/1.22/mediawiki-1.22.3.tar.gz	France	2
+/mediawiki/1.14/mediawiki-1.14.1.patch.gz	India	2
+/mediawiki/1.14/mediawiki-1.14.0rc1.tar.gz	United States	2
+/mediawiki/1.24/mediawiki-core-1.24.2.tar.gz	United Kingdom	2
+/mediawiki/1.22/mediawiki-1.22.14.patch.gz	Unknown	2
+/mediawiki/1.3/mediawiki-1.3.12.tar.gz	Iran	2
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	India	2
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Hashemite Kingdom of Jordan	2
+/mediawiki/1.9/mediawiki-1.9.6.tar.gz	United States	2
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Sweden	2
+/mediawiki/1.8/mediawiki-1.8.5.tar.gz	France	2
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Russia	2
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Canada	2
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	Germany	2
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Japan	2
+/mediawiki/1.20/mediawiki-core-1.20.8.tar.gz	Brazil	2
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Vietnam	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Republic of Moldova	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Myanmar [Burma]	2
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	United Kingdom	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Kuwait	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Ecuador	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Belarus	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Switzerland	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Romania	2
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Germany	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Chile	2
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Australia	2
+/mediawiki/1.23/mediawiki-1.23.8.tar.gz	Germany	2
+/mediawiki/1.19/mediawiki-1.19.23.tar.gz	Russia	2
+/mediawiki/1.19/mediawiki-1.19.23.tar.gz	France	2
+/mediawiki/1.19/mediawiki-1.19.23.patch.gz	United States	2
+/mediawiki/1.19/mediawiki-1.19.20.tar.gz	United States	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Lebanon	2
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	Romania	2
+/mediawiki/1.19/mediawiki-1.19.11.tar.gz	United States	2
+/mediawiki/1.23/mediawiki-1.23.3.patch.gz	Ireland	2
+/mediawiki/1.23/mediawiki-1.23.1.patch.gz	Unknown	2
+/mediawiki/1.18/mediawiki-1.18.0.patch.gz	Germany	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Djibouti	2
+/mediawiki/1.17/mediawiki-1.17.3.tar.gz	South Africa	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Bolivia	2
+/mediawiki/1.22/mediawiki-core-1.22.7.tar.gz	India	2
+/mediawiki/1.22/mediawiki-core-1.22.15.tar.gz	India	2
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Latvia	2
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Tunisia	2
+/mediawiki/1.16/mediawiki-i18n-1.16.2.patch.gz	United States	2
+/mediawiki/1.16/mediawiki-1.16.1.tar.gz	United States	2
+/mediawiki/1.22/mediawiki-core-1.22.0.tar.gz	India	2
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	Germany	2
+/mediawiki/1.22/mediawiki-1.22.9.tar.gz	United States	2
+/mediawiki/1.22/mediawiki-1.22.9.patch.gz	United States	2
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Kuwait	2
+/mediawiki/1.15/mediawiki-1.15.4.patch.gz	Germany	2
+/mediawiki/1.22/mediawiki-1.22.7.tar.gz	India	2
+/mediawiki/1.22/mediawiki-1.22.4.tar.gz	Republic of Korea	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Azerbaijan	2
+/mediawiki/1.21/mediawiki-1.21.0rc3.patch.gz	United States	2
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Peru	2
+/mediawiki/1.20/mediawiki-1.20.8.patch.gz	Germany	2
+/mobile/android/wikipedia/stable/wikipedia-2.0.102-releasesprod-2015-05-14.mapping.tar.gz	Angola	2
+/mediawiki/1.19/mediawiki-core-1.19.21.tar.gz	France	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Mauritania	2
+/mediawiki/1.14/mediawiki-1.14.0.patch.gz	Germany	2
+/mediawiki/1.19/mediawiki-core-1.19.16.tar.gz	India	2
+/mediawiki/1.19/mediawiki-1.19.9.tar.gz	India	2
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Estonia	2
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Vanuatu	2
+/mediawiki/1.15/mediawiki-1.15.4.patch.gz	Czech Republic	2
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Greece	2
+/mediawiki/1.16/mediawiki-1.16.0.patch.gz	Czech Republic	2
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	Unknown	2
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	France	2
+/mediawiki/1.19/mediawiki-1.19.14.tar.gz	United States	2
+/mediawiki/1.23/mediawiki-1.23.0-rc.3.tar.gz	United States	2
+/mediawiki/1.24/mediawiki-core-1.24.2.tar.gz	Czech Republic	2
+/mediawiki/1.16/mediawiki-1.16.5.patch.gz	India	2
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	South Africa	2
+/mediawiki/1.18/mediawiki-1.18.4.patch.gz	Unknown	2
+/mediawiki/1.18/mediawiki-1.18.3.tar.gz	Germany	2
+/mediawiki/1.18/mediawiki-1.18.2.patch.gz	United States	2
+/mediawiki/1.18/mediawiki-1.18.1.tar.gz	China	2
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	Japan	2
+/mediawiki/1.18/mediawiki-1.18.0.patch.gz	Czech Republic	2
+/mediawiki/1.17/mediawiki-i18n-1.17.2.patch.gz	Czech Republic	2
+/mediawiki/1.17/mediawiki-i18n-1.17.1.patch.gz	United States	2
+/mediawiki/1.16/mediawiki-i18n-1.16.0beta3.patch.gz	Saudi Arabia	2
+/mediawiki/1.17/mediawiki-1.17.4.tar.gz	United States	2
+/mediawiki/1.22/mediawiki-1.22.4.tar.gz	Germany	2
+/mediawiki/1.19/mediawiki-core-1.19.16.tar.gz	United States	2
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Myanmar [Burma]	1
+https://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Bangladesh	1
+http://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Pakistan	1
+/mobile/android/wikipedia/stable/wikipedia-2.0-releasesprod-2015-03-23.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/stable/wikipedia-2.0-releasesprod-2015-01-15.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-04-03.mapping.tar.gz	China	1
+/mediawiki/snapshot/mediawiki-snapshot-20060317.tar.gz	South Africa	1
+/mediawiki/1.9/mediawiki-1.9.5.tar.gz	France	1
+/mediawiki/1.9/mediawiki-1.9.1.tar.gz	Germany	1
+/mediawiki/1.5/mediawiki-1.5.5.tar.gz	France	1
+/mediawiki/1.4/mediawiki-1.4.12.tar.gz	Germany	1
+/mediawiki/1.3/mediawiki-1.3.18.tar.gz	India	1
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Morocco	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Trinidad and Tobago	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Cameroon	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Philippines	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	New Caledonia	1
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Philippines	1
+/mediawiki/1.24/mediawiki-i18n-1.24.2.patch.gz	Philippines	1
+/mediawiki/1.24/mediawiki-core-1.24.1.tar.gz	United States	1
+/mediawiki/1.24/mediawiki-core-1.24.0.tar.gz	Germany	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mongolia	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Haiti	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Burkina Faso	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Armenia	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Nigeria	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Hong Kong	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Ukraine	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	New Zealand	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Malaysia	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Hungary	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Switzerland	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Estonia	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Chile	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.3.tar.gz	United Kingdom	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.3.tar.gz	Germany	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.tar.gz	Switzerland	1
+/mediawiki/1.23/mediawiki-i18n-1.23.0-rc.2.patch.gz	United States	1
+/mediawiki/1.23/mediawiki-core-1.23.9.tar.gz	Ukraine	1
+/mediawiki/1.23/mediawiki-core-1.23.6.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-core-1.23.3.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-core-1.23.2.tar.gz	United States	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Kyrgyzstan	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Honduras	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Republic of Lithuania	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Czech Republic	1
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	Turkey	1
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	New Zealand	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Thailand	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.0-rc.2.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.0-rc.2.patch.gz	India	1
+/mediawiki/1.22/mediawiki-i18n-1.22.5.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-i18n-1.22.15.patch.gz	United States	1
+/mediawiki/1.22/mediawiki-i18n-1.22.15.patch.gz	India	1
+/mediawiki/1.22/mediawiki-core-1.22.4.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.12.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.0rc0.tar.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.9.tar.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.9.patch.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.8.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.7.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.4.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.14.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.12.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.12.patch.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.11.patch.gz	Canada	1
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	Kenya	1
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.1.patch.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.0rc3.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.0rc2.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	Republic of Korea	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc3.patch.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.7.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.6.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.0rc5.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.0.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.8.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.6.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.5.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.4.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Romania	1
+/mediawiki/1.21/mediawiki-1.21.11.tar.gz	Chile	1
+/mediawiki/1.21/mediawiki-1.21.10.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.10.tar.gz	Czech Republic	1
+/mediawiki/1.21/mediawiki-1.21.10.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	Russia	1
+/mediawiki/1.21/mediawiki-1.21.1.patch.gz	Germany	1
+/mediawiki/1.20/mediawiki-core-1.20.8.tar.gz	China	1
+/mediawiki/1.20/mediawiki-1.20.8.patch.gz	Japan	1
+/mediawiki/1.19/mediawiki-i18n-1.19.10.patch.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	Unknown	1
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	China	1
+/mediawiki/1.19/mediawiki-core-1.19.21.tar.gz	Russia	1
+/mediawiki/1.19/mediawiki-core-1.19.19.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.17.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.12.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.9.tar.gz	Ukraine	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Sweden	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Nepal	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	El Salvador	1
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	Ukraine	1
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.23.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.23.patch.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.21.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.20.tar.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.20.patch.gz	South Africa	1
+/mediawiki/1.19/mediawiki-1.19.20.patch.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	Canada	1
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	Tanzania	1
+/mediawiki/1.19/mediawiki-1.19.15.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.14.tar.gz	Serbia	1
+/mediawiki/1.19/mediawiki-1.19.14.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.13.tar.gz	Iran	1
+/mediawiki/1.19/mediawiki-1.19.11.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.10.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.10.tar.gz	Czech Republic	1
+/mediawiki/1.18/mediawiki-i18n-1.18.1.patch.gz	United Kingdom	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Chile	1
+/mediawiki/1.18/mediawiki-1.18.5.tar.gz	France	1
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.1.patch.gz	Australia	1
+/mediawiki/1.18/mediawiki-1.18.0rc1.tar.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.5.patch.gz	United Kingdom	1
+/mediawiki/1.17/mediawiki-1.17.5.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.3.tar.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.2.tar.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.2.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.0rc1.tar.gz	India	1
+/mediawiki/1.16/mediawiki-i18n-1.16.3.patch.gz	India	1
+/mediawiki/1.16/mediawiki-i18n-1.16.1.patch.gz	Czech Republic	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0.patch.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.4.tar.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.2.patch.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	Ireland	1
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	Iraq	1
+/mediawiki/1.15/mediawiki-i18n-1.15.3.patch.gz	United Kingdom	1
+/mediawiki/1.15/mediawiki-i18n-1.15.3.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-i18n-1.15.0.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-1.15.4.tar.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Romania	1
+/mediawiki/1.13/mediawiki-i18n-1.13.2.patch.gz	United States	1
+/mediawiki/1.13/mediawiki-1.13.4.patch.gz	Czech Republic	1
+/mediawiki/1.13/mediawiki-1.13.3.patch.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.2.tar.gz	France	1
+/mediawiki/1.13/mediawiki-1.13.1.patch.gz	Czech Republic	1
+/mediawiki/1.12/mediawiki-1.12.3.patch.gz	United Kingdom	1
+/mediawiki/1.12/mediawiki-1.12.2.tar.gz	France	1
+/mediawiki/1.12/mediawiki-1.12.0.tar.gz	Germany	1
+/mediawiki/1.11/mediawiki-1.11.0.tar.gz	Guam	1
+/mediawiki/1.11/mediawiki-1.11.0.tar.gz	Germany	1
+/mediawiki/1.10/mediawiki-1.10.4.tar.gz	France	1
+/mediawiki/1.10/mediawiki-1.10.2.tar.gz	Germany	1
+/mediawiki/1.10/mediawiki-1.10.0rc1.tar.gz	Germany	1
+/mediawiki//1.25/mediawiki-1.25.1.tar.gz	Brazil	1
+/mediawiki//1.23/mediawiki-1.23.0.tar.gz	United Kingdom	1
+/mediawiki//1.21/mediawiki-1.21.2.tar.gz	United Kingdom	1
+/mediawiki//1.15/mediawiki-1.15.1.tar.gz	United Kingdom	1
+/mediawiki/1.22/mediawiki-1.22.13.tar.gz	Germany	1
+http://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Indonesia	1
+http://releases.wikimedia.org/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Philippines	1
+/mobile/android/wikipedia/stable/wikipedia-2.0-releasesprod-2015-01-15.mapping.tar.gz	United States	1
+/mobile/android/wikipedia/betas/wikipedia-2.0.102-beta-2015-05-14.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-04-23.mapping.tar.gz	United States	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-02-27.mapping.tar.gz	Germany	1
+/mediawiki/1.9/mediawiki-1.9.6.tar.gz	France	1
+/mediawiki/1.8/mediawiki-1.8.2.tar.gz	France	1
+/mediawiki/1.7/mediawiki-1.7.3.tar.gz	Germany	1
+/mediawiki/1.6/mediawiki-1.6.8.tar.gz	Japan	1
+/mediawiki/1.6/mediawiki-1.6.8.tar.gz	Germany	1
+/mediawiki/1.6/mediawiki-1.6.3.tar.gz	France	1
+/mediawiki/1.6/mediawiki-1.6.12.tar.gz	Canada	1
+/mediawiki/1.6/mediawiki-1.6.10.tar.gz	Germany	1
+/mediawiki/1.5/mediawiki-1.5.6.tar.gz	France	1
+/mediawiki/1.4/mediawiki-1.4.7.tar.gz	China	1
+/mediawiki/1.4/mediawiki-1.4.4.tar.gz	Angola	1
+/mediawiki/1.4/mediawiki-1.4.15.tar.gz	Canada	1
+/mediawiki/1.4/mediawiki-1.4.13.tar.gz	Germany	1
+/mediawiki/1.3/mediawiki-1.3.15.tar.gz	Angola	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Belgium	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Uzbekistan	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Macedonia	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Iceland	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Honduras	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Uruguay	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Costa Rica	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Bulgaria	1
+/mediawiki/1.24/mediawiki-core-1.24.2.tar.gz	Austria	1
+/mediawiki/1.24/mediawiki-core-1.24.1.tar.gz	United Kingdom	1
+/mediawiki/1.24/mediawiki-core-1.24.1.tar.gz	Germany	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Guinea	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	French Guiana	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	East Timor	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Azerbaijan	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Switzerland	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Romania	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Philippines	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Chile	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Australia	1
+/mediawiki/1.24/mediawiki-1.24.1.patch.gz	Germany	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.2.tar.gz	Switzerland	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.patch.gz	United Kingdom	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.patch.gz	Germany	1
+/mediawiki/1.23/mediawiki-i18n-1.23.0-rc.2.patch.gz	Germany	1
+/mediawiki/1.23/mediawiki-core-1.23.7.tar.gz	Greece	1
+/mediawiki/1.23/mediawiki-core-1.23.7.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Uruguay	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Uganda	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Norway	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Iraq	1
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.8.patch.gz	Russia	1
+/mediawiki/1.23/mediawiki-1.23.6.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	India	1
+/mediawiki/1.23/mediawiki-1.23.4.patch.gz	India	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Unknown	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	China	1
+/mediawiki/1.23/mediawiki-1.23.3.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.3.patch.gz	Australia	1
+/mediawiki/1.23/mediawiki-1.23.2.patch.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Greece	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Bosnia and Herzegovina	1
+/mediawiki/1.23/mediawiki-1.23.1.patch.gz	India	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.0-rc.3.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-i18n-1.22.5.patch.gz	India	1
+/mediawiki/1.22/mediawiki-i18n-1.22.0rc3.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.5.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.13.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.12.tar.gz	India	1
+/mediawiki/1.22/mediawiki-core-1.22.0rc0.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.5.tar.gz	United Kingdom	1
+/mediawiki/1.22/mediawiki-1.22.15.tar.gz	Canada	1
+/mediawiki/1.22/mediawiki-1.22.15.patch.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.14.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.12.tar.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.12.patch.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.11.tar.gz	China	1
+/mediawiki/1.22/mediawiki-1.22.11.patch.gz	Morocco	1
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	Unknown	1
+/mediawiki/1.22/mediawiki-1.22.1.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.0rc3.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.0rc3.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.0rc2.tar.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	Russia	1
+/mediawiki/1.21/mediawiki-i18n-1.21.8.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc3.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.9.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.8.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.7.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.11.tar.gz	Brazil	1
+/mediawiki/1.21/mediawiki-core-1.21.10.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.1.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.0.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.0.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.9.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.9.tar.gz	Czech Republic	1
+/mediawiki/1.21/mediawiki-1.21.8.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.7.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.6.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Portugal	1
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.11.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.11.patch.gz	Morocco	1
+/mediawiki/1.21/mediawiki-1.21.10.patch.gz	United Kingdom	1
+/mediawiki/1.21/mediawiki-1.21.1.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0rc3.patch.gz	Germany	1
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	Singapore	1
+/mediawiki/1.19/mediawiki-i18n-1.19.23.patch.gz	India	1
+/mediawiki/1.19/mediawiki-i18n-1.19.10.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.9.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.22.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.17.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.10.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	Puerto Rico	1
+/mediawiki/1.19/mediawiki-1.19.21.tar.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.20.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.19.tar.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.18.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.16.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.15.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.15.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.11.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.11.patch.gz	India	1
+/mediawiki/1.18/mediawiki-i18n-1.18.5.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-i18n-1.18.2.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Guadeloupe	1
+/mediawiki/1.18/mediawiki-1.18.5.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.4.tar.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.3.tar.gz	United States	1
+/mediawiki/1.18/mediawiki-1.18.3.tar.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	United Kingdom	1
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	Spain	1
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	China	1
+/mediawiki/1.18/mediawiki-1.18.2.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-i18n-1.17.1.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.5.tar.gz	Slovak Republic	1
+/mediawiki/1.17/mediawiki-1.17.5.patch.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.4.tar.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.3.tar.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.2.patch.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	Egypt	1
+/mediawiki/1.16/mediawiki-1.16.5.patch.gz	China	1
+/mediawiki/1.16/mediawiki-1.16.3.patch.gz	United States	1
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	Romania	1
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	Italy	1
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	Thailand	1
+/mediawiki/1.15/mediawiki-i18n-1.15.3.patch.gz	India	1
+/mediawiki/1.15/mediawiki-i18n-1.15.1.patch.gz	Czech Republic	1
+/mediawiki/1.15/mediawiki-i18n-1.15.0rc1.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-i18n-1.15.0.patch.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.5.tar.gz	Ukraine	1
+/mediawiki/1.15/mediawiki-1.15.5.tar.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.4.tar.gz	China	1
+/mediawiki/1.15/mediawiki-1.15.2.tar.gz	Thailand	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Guatemala	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Canada	1
+/mediawiki/1.15/mediawiki-1.15.0.patch.gz	Germany	1
+/mediawiki/1.14/mediawiki-1.14.0.patch.gz	India	1
+/mediawiki/1.13/mediawiki-i18n-1.13.2.patch.gz	United Kingdom	1
+/mediawiki/1.13/mediawiki-i18n-1.13.2.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.3.tar.gz	France	1
+/mediawiki/1.13/mediawiki-1.13.0.patch.gz	United Kingdom	1
+/mediawiki/1.12/mediawiki-i18n-1.12.3.patch.gz	Czech Republic	1
+/mediawiki/1.12/mediawiki-i18n-1.12.2.patch.gz	United States	1
+/mediawiki/1.12/mediawiki-1.12.4.patch.gz	Germany	1
+/mediawiki/1.12/mediawiki-1.12.3.tar.gz	France	1
+/mediawiki/1.12/mediawiki-1.12.1.tar.gz	Germany	1
+/mediawiki/1.12/mediawiki-1.12.1.patch.gz	Germany	1
+/mediawiki/1.12/mediawiki-1.12.0.tar.gz	Ukraine	1
+/mediawiki/1.11/mediawiki-1.11.1.tar.gz	Japan	1
+/mediawiki/1.11/mediawiki-1.11.1.tar.gz	Germany	1
+/mediawiki/1.11/mediawiki-1.11.0.tar.gz	Ukraine	1
+/mediawiki/1.10/mediawiki-1.10.3.tar.gz	Germany	1
+/mediawiki/1.10/mediawiki-1.10.0rc2.tar.gz	Germany	1
+/mediawiki//1.9/mediawiki-1.9.3.tar.gz	France	1
+/mediawiki//1.11/mediawiki-1.11.1.tar.gz	France	1
+http://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ethiopia	1
+/mediawiki/1.9/mediawiki-1.9.4.tar.gz	France	1
+/mediawiki/1.8/mediawiki-1.8.5.tar.gz	Germany	1
+/mediawiki/1.8/mediawiki-1.8.2.tar.gz	Angola	1
+/mediawiki/1.7/mediawiki-1.7.3.tar.gz	Canada	1
+/mediawiki/1.7/mediawiki-1.7.1.tar.gz	Germany	1
+/mediawiki/1.6/mediawiki-1.6.8.tar.gz	France	1
+/mediawiki/1.5/mediawiki-1.5.6.tar.gz	Angola	1
+/mediawiki/1.5/mediawiki-1.5.2.tar.gz	Germany	1
+/mediawiki/1.4/mediawiki-1.4.9.tar.gz	France	1
+/mediawiki/1.4/mediawiki-1.4.7.tar.gz	Germany	1
+/mediawiki/1.3/mediawiki-1.3.18.tar.gz	Germany	1
+/mediawiki/1.3/mediawiki-1.3.13.tar.gz	France	1
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Algeria	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Estonia	1
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Greece	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Georgia	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Gabon	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Armenia	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	New Zealand	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Egypt	1
+/mediawiki/1.24/mediawiki-core-1.24.2.tar.gz	Brazil	1
+/mediawiki/1.24/mediawiki-core-1.24.1.tar.gz	Czech Republic	1
+/mediawiki/1.24/mediawiki-core-1.24.0.tar.gz	United States	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Israel	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Hungary	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.3.tar.gz	United States	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.2.tar.gz	Germany	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.0.tar.gz	Unknown	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.0.tar.gz	Switzerland	1
+/mediawiki/1.23/mediawiki-core-1.23.7.tar.gz	Unknown	1
+/mediawiki/1.23/mediawiki-core-1.23.2.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-core-1.23.0rc0.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Egypt	1
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	Unknown	1
+/mediawiki/1.23/mediawiki-1.23.8.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Brazil	1
+/mediawiki/1.23/mediawiki-1.23.6.patch.gz	Unknown	1
+/mediawiki/1.23/mediawiki-1.23.6.patch.gz	Netherlands	1
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	Czech Republic	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	United Kingdom	1
+/mediawiki/1.23/mediawiki-1.23.3.patch.gz	Unknown	1
+/mediawiki/1.23/mediawiki-1.23.0-rc.2.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-i18n-1.22.15.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-i18n-1.22.0rc2.patch.gz	India	1
+/mediawiki/1.22/mediawiki-core-1.22.4.tar.gz	United States	1
+/mediawiki/1.22/mediawiki-core-1.22.3.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.11.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.9.tar.gz	Norway	1
+/mediawiki/1.22/mediawiki-1.22.8.tar.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.7.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.4.tar.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.4.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.3.tar.gz	Netherlands	1
+/mediawiki/1.22/mediawiki-1.22.3.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.15.patch.gz	Kazakhstan	1
+/mediawiki/1.22/mediawiki-1.22.13.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.13.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.11.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	Pakistan	1
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	Egypt	1
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.0rc1.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.0rc0.tar.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	Finland	1
+/mediawiki/1.21/mediawiki-i18n-1.21.4.patch.gz	United States	1
+/mediawiki/1.21/mediawiki-i18n-1.21.4.patch.gz	India	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc5.patch.gz	India	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc2.patch.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.6.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.5.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.0rc5.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.7.tar.gz	Russia	1
+/mediawiki/1.21/mediawiki-1.21.7.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.7.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.5.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.4.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.4.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.3.tar.gz	Unknown	1
+/mediawiki/1.21/mediawiki-1.21.10.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.0rc5.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0rc2.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0.tar.gz	Russia	1
+/mediawiki/1.21/mediawiki-1.21.0.tar.gz	France	1
+/mediawiki/1.20/mediawiki-core-1.20.8.tar.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.9.tar.gz	Brazil	1
+/mediawiki/1.19/mediawiki-core-1.19.21.tar.gz	Chile	1
+/mediawiki/1.19/mediawiki-core-1.19.20.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.18.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.16.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.15.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.9.patch.gz	Angola	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Myanmar [Burma]	1
+/mediawiki/1.19/mediawiki-1.19.23.tar.gz	Japan	1
+/mediawiki/1.19/mediawiki-1.19.22.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.21.tar.gz	Unknown	1
+/mediawiki/1.19/mediawiki-1.19.21.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.19.patch.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.16.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.16.tar.gz	Czech Republic	1
+/mediawiki/1.19/mediawiki-1.19.15.patch.gz	Czech Republic	1
+/mediawiki/1.19/mediawiki-1.19.14.tar.gz	Sweden	1
+/mediawiki/1.19/mediawiki-1.19.14.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.14.patch.gz	United States	1
+/mediawiki/1.19/mediawiki-1.19.14.patch.gz	Serbia	1
+/mediawiki/1.19/mediawiki-1.19.14.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.13.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.11.patch.gz	United States	1
+/mediawiki/1.18/mediawiki-i18n-1.18.5.patch.gz	Czech Republic	1
+/mediawiki/1.18/mediawiki-i18n-1.18.2.patch.gz	Czech Republic	1
+/mediawiki/1.18/mediawiki-i18n-1.18.1.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Sudan	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Norway	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Malaysia	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Angola	1
+/mediawiki/1.18/mediawiki-1.18.4.tar.gz	France	1
+/mediawiki/1.18/mediawiki-1.18.4.tar.gz	Czech Republic	1
+/mediawiki/1.18/mediawiki-1.18.4.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.1.tar.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.1.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.0rc1.tar.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.0.tar.gz	Australia	1
+/mediawiki/1.17/mediawiki-i18n-1.17.3.patch.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.2.tar.gz	United Kingdom	1
+/mediawiki/1.17/mediawiki-1.17.2.tar.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.2.patch.gz	United States	1
+/mediawiki/1.17/mediawiki-1.17.0rc1.tar.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Italy	1
+/mediawiki/1.17/mediawiki-1.17.0.patch.gz	Angola	1
+/mediawiki/1.16/mediawiki-i18n-1.16.3.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0beta3.patch.gz	India	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	Slovak Republic	1
+/mediawiki/1.16/mediawiki-1.16.5.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.4.tar.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.3.tar.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	Argentina	1
+/mediawiki/1.16/mediawiki-1.16.2.patch.gz	United Kingdom	1
+/mediawiki/1.16/mediawiki-1.16.0beta3.tar.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.0beta3.patch.gz	India	1
+/mediawiki/1.15/mediawiki-i18n-1.15.3.patch.gz	United States	1
+/mediawiki/1.15/mediawiki-1.15.5.tar.gz	Slovak Republic	1
+/mediawiki/1.15/mediawiki-1.15.5.patch.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.3.tar.gz	Ukraine	1
+/mediawiki/1.15/mediawiki-1.15.3.tar.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.3.patch.gz	Czech Republic	1
+/mediawiki/1.15/mediawiki-1.15.2.patch.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.0rc1.tar.gz	France	1
+/mediawiki/1.13/mediawiki-i18n-1.13.5.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-i18n-1.13.1.patch.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.5.tar.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.3.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.1.tar.gz	France	1
+/mediawiki/1.12/mediawiki-i18n-1.12.4.patch.gz	Germany	1
+/mediawiki/1.12/mediawiki-i18n-1.12.1.patch.gz	Netherlands	1
+/mediawiki/1.12/mediawiki-i18n-1.12.1.patch.gz	Germany	1
+/mediawiki/1.12/mediawiki-1.12.1.tar.gz	France	1
+/mediawiki/1.12/mediawiki-1.12.1.patch.gz	Czech Republic	1
+/mediawiki/1.10/mediawiki-1.10.3.tar.gz	France	1
+/mediawiki/1.10/mediawiki-1.10.1.tar.gz	Germany	1
+/mediawiki/1.10/mediawiki-1.10.0rc2.tar.gz	France	1
+/mediawiki//1.17/mediawiki-1.17.3.patch.gz	Czech Republic	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc4.patch.gz	India	1
+/mobile/android/wikipedia/stable/wikipedia-2.0-releasesprod-2015-01-15.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-02-19.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-01-28.mapping.tar.gz	Germany	1
+/mediawiki/snapshot/mediawiki-snapshot-20060317.tar.gz	Vietnam	1
+/mediawiki/snapshot/mediawiki-snapshot-20060317.tar.gz	Germany	1
+/mediawiki/snapshot/mediawiki-snapshot-20060316.tar.gz	Azerbaijan	1
+/mediawiki/1.9/mediawiki-1.9.6.tar.gz	Germany	1
+/mediawiki/1.9/mediawiki-1.9.0.tar.gz	Morocco	1
+/mediawiki/1.8/mediawiki-1.8.2.tar.gz	Japan	1
+/mediawiki/1.6/mediawiki-1.6.3.tar.gz	Germany	1
+/mediawiki/1.6/mediawiki-1.6.12.tar.gz	China	1
+/mediawiki/1.4/mediawiki-1.4.4.tar.gz	Germany	1
+/mediawiki/1.4/mediawiki-1.4.12.tar.gz	France	1
+/mediawiki/1.3/mediawiki-1.3.15.tar.gz	Germany	1
+/mediawiki/1.3/mediawiki-1.3.12.tar.gz	Angola	1
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Switzerland	1
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	China	1
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Australia	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Zambia	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Suriname	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Mozambique	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Belize	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Bahrain	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Afghanistan	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Latvia	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Ethiopia	1
+/mediawiki/1.24/mediawiki-core-1.24.0-rc.1.tar.gz	Germany	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Nicaragua	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Laos	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Guadeloupe	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Denmark	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Botswana	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Singapore	1
+/mediawiki/1.24/mediawiki-1.24.1.patch.gz	Estonia	1
+/mediawiki/1.24/mediawiki-1.24.1.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-core-1.23.6.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Republic of Lithuania	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Nepal	1
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	Austria	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	New Zealand	1
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	Switzerland	1
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.5.patch.gz	Unknown	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Thailand	1
+/mediawiki/1.23/mediawiki-1.23.3.patch.gz	Morocco	1
+/mediawiki/1.23/mediawiki-1.23.2.tar.gz	Czech Republic	1
+/mediawiki/1.23/mediawiki-1.23.2.patch.gz	Vietnam	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	United Arab Emirates	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Morocco	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Austria	1
+/mediawiki/1.23/mediawiki-1.23.0rc0.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.0-rc.1.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-i18n-1.22.14.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.9.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.2.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.13.tar.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.9.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.9.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.8.tar.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.6.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.4.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.2.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.15.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.13.tar.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.12.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.1.tar.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	China	1
+/mediawiki/1.21/mediawiki-i18n-1.21.6.patch.gz	India	1
+/mediawiki/1.21/mediawiki-i18n-1.21.3.patch.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.3.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.0rc3.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.0rc3.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.9.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.9.patch.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.9.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.6.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.4.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.3.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Turkey	1
+/mediawiki/1.21/mediawiki-1.21.11.tar.gz	United Kingdom	1
+/mediawiki/1.21/mediawiki-1.21.11.tar.gz	Netherlands	1
+/mediawiki/1.21/mediawiki-1.21.11.tar.gz	Japan	1
+/mediawiki/1.21/mediawiki-1.21.10.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	Ukraine	1
+/mediawiki/1.21/mediawiki-1.21.0rc5.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.0rc4.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0rc4.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0rc3.tar.gz	Tanzania	1
+/mediawiki/1.21/mediawiki-1.21.0.tar.gz	Australia	1
+/mediawiki/1.19/mediawiki-core-1.19.23.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.22.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.21.tar.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.21.tar.gz	Hungary	1
+/mediawiki/1.19/mediawiki-core-1.19.15.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.14.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.13.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.12.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Uganda	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Sudan	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Guadeloupe	1
+/mediawiki/1.19/mediawiki-1.19.23.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.21.tar.gz	Austria	1
+/mediawiki/1.19/mediawiki-1.19.20.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.20.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.19.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-1.19.19.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	Vietnam	1
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.18.patch.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	Czech Republic	1
+/mediawiki/1.19/mediawiki-1.19.16.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.13.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.13.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.12.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-1.19.11.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.10.tar.gz	India	1
+/mediawiki/1.18/mediawiki-i18n-1.18.6.patch.gz	India	1
+/mediawiki/1.18/mediawiki-i18n-1.18.1.patch.gz	Czech Republic	1
+/mediawiki/1.18/mediawiki-i18n-1.18.0.patch.gz	United States	1
+/mediawiki/1.18/mediawiki-i18n-1.18.0.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Spain	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Saudi Arabia	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Poland	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Kenya	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Indonesia	1
+/mediawiki/1.18/mediawiki-1.18.3.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.0rc1.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.0beta1.tar.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.0.patch.gz	India	1
+/mediawiki/1.17/mediawiki-i18n-1.17.2.patch.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.5.patch.gz	Czech Republic	1
+/mediawiki/1.17/mediawiki-1.17.4.patch.gz	United States	1
+/mediawiki/1.17/mediawiki-1.17.3.tar.gz	France	1
+/mediawiki/1.17/mediawiki-1.17.2.patch.gz	Finland	1
+/mediawiki/1.17/mediawiki-1.17.0rc1.tar.gz	South Africa	1
+/mediawiki/1.17/mediawiki-1.17.0rc1.patch.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	India	1
+/mediawiki/1.16/mediawiki-i18n-1.16.5.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0beta2.patch.gz	United States	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0beta2.patch.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.4.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.3.tar.gz	France	1
+/mediawiki/1.16/mediawiki-1.16.1.tar.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.1.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.0beta2.patch.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.0beta1.tar.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	India	1
+/mediawiki/1.15/mediawiki-i18n-1.15.5.patch.gz	United States	1
+/mediawiki/1.15/mediawiki-i18n-1.15.1.patch.gz	United Kingdom	1
+/mediawiki/1.15/mediawiki-1.15.4.patch.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.2.patch.gz	Czech Republic	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Indonesia	1
+/mediawiki/1.15/mediawiki-1.15.1.patch.gz	India	1
+/mediawiki/1.14/mediawiki-i18n-1.14.1.patch.gz	India	1
+/mediawiki/1.14/mediawiki-1.14.0rc1.tar.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.5.tar.gz	Taiwan	1
+/mediawiki/1.13/mediawiki-1.13.5.patch.gz	United Kingdom	1
+/mediawiki/1.13/mediawiki-1.13.5.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.3.tar.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.2.tar.gz	Ukraine	1
+/mediawiki/1.13/mediawiki-1.13.2.tar.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.2.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.1.i18n.patch.gz	United States	1
+/mediawiki/1.12/mediawiki-i18n-1.12.3.patch.gz	Germany	1
+/mediawiki/1.12/mediawiki-1.12.2.patch.gz	United States	1
+/mediawiki/1.12/mediawiki-1.12.0.tar.gz	France	1
+/mediawiki/1.12/mediawiki-1.12.0.patch.gz	France	1
+/mediawiki/1.12/mediawiki-1.12.0.patch.gz	Czech Republic	1
+/mediawiki/1.11/mediawiki-1.11.2.tar.gz	Angola	1
+/mediawiki/1.11/mediawiki-1.11.1.tar.gz	Romania	1
+/mediawiki/1.11/mediawiki-1.11.0.tar.gz	France	1
+/mediawiki//1.17/mediawiki-i18n-1.17.3.patch.gz	United Kingdom	1
+/debian/dists/trusty-mediawiki/main/source/Sources.gz	Philippines	1
+/mediawiki/1.12/mediawiki-1.12.3.patch.gz	Germany	1
+http://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ethiopia	1
+http://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Bangladesh	1
+http://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Rwanda	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-04-23.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-04-03.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-01-13.mapping.tar.gz	Germany	1
+/mediawiki/snapshot/mediawiki-snapshot-20060317.tar.gz	Philippines	1
+/mediawiki/1.9/mediawiki-1.9.3.tar.gz	France	1
+/mediawiki/1.8/mediawiki-1.8.4.tar.gz	Germany	1
+/mediawiki/1.6/mediawiki-1.6.11.tar.gz	France	1
+/mediawiki/1.4/mediawiki-1.4.14.tar.gz	France	1
+/mediawiki/1.3/mediawiki-1.3.12.tar.gz	France	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Norway	1
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Republic of Korea	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Palestine	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	El Salvador	1
+/mediawiki/1.24/mediawiki-i18n-1.24.2.patch.gz	Germany	1
+/mediawiki/1.24/mediawiki-core-1.24.0.tar.gz	Czech Republic	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	North Korea	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Ukraine	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Colombia	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Iran	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	China	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.tar.gz	United Kingdom	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-i18n-1.23.7.patch.gz	Unknown	1
+/mediawiki/1.23/mediawiki-i18n-1.23.0-rc.1.patch.gz	Germany	1
+/mediawiki/1.23/mediawiki-core-1.23.8.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-core-1.23.1.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-core-1.23.0-rc.3.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Peru	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Kenya	1
+/mediawiki/1.23/mediawiki-1.23.8.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.7.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.7.patch.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.7.patch.gz	Canada	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Bulgaria	1
+/mediawiki/1.23/mediawiki-1.23.6.patch.gz	Austria	1
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	Republic of Korea	1
+/mediawiki/1.23/mediawiki-1.23.5.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	Russia	1
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.4.patch.gz	Czech Republic	1
+/mediawiki/1.23/mediawiki-1.23.2.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	China	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Argentina	1
+/mediawiki/1.23/mediawiki-1.23.0-rc.1.tar.gz	India	1
+/mediawiki/1.22/mediawiki-i18n-1.22.7.patch.gz	India	1
+/mediawiki/1.22/mediawiki-i18n-1.22.1.patch.gz	India	1
+/mediawiki/1.22/mediawiki-i18n-1.22.0rc2.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.3.tar.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.6.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.6.tar.gz	Czech Republic	1
+/mediawiki/1.22/mediawiki-1.22.3.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.2.tar.gz	Unknown	1
+/mediawiki/1.22/mediawiki-1.22.2.tar.gz	Spain	1
+/mediawiki/1.22/mediawiki-1.22.15.tar.gz	Unknown	1
+/mediawiki/1.22/mediawiki-1.22.15.tar.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.15.patch.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.13.tar.gz	Republic of Korea	1
+/mediawiki/1.22/mediawiki-1.22.13.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.12.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.11.patch.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	Morocco	1
+/mediawiki/1.22/mediawiki-1.22.0rc2.patch.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.0rc2.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.0rc0.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.4.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc5.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc2.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.5.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.4.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.0rc5.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.0rc4.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.7.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.6.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.4.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.3.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.3.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0rc5.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.0rc2.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.0.tar.gz	Romania	1
+/mediawiki/1.21/mediawiki-1.21.0.tar.gz	Republic of Korea	1
+/mediawiki/1.21/mediawiki-1.21.0.patch.gz	India	1
+/mediawiki/1.20/mediawiki-core-1.20.8.tar.gz	Japan	1
+/mediawiki/1.20/mediawiki-core-1.20.8.tar.gz	Germany	1
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	Russia	1
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	France	1
+/mediawiki/1.19/mediawiki-i18n-1.19.22.patch.gz	India	1
+/mediawiki/1.19/mediawiki-i18n-1.19.12.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	Poland	1
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.23.tar.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.17.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.15.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.14.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.9.tar.gz	Singapore	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Bangladesh	1
+/mediawiki/1.19/mediawiki-1.19.22.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.22.patch.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.21.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.19.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	Bosnia and Herzegovina	1
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.15.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.14.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.13.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.12.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.10.patch.gz	India	1
+/mediawiki/1.18/mediawiki-i18n-1.18.1.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Switzerland	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Bosnia and Herzegovina	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Australia	1
+/mediawiki/1.18/mediawiki-1.18.4.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.3.tar.gz	France	1
+/mediawiki/1.18/mediawiki-1.18.3.tar.gz	Czech Republic	1
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	United States	1
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	Morocco	1
+/mediawiki/1.18/mediawiki-1.18.1.tar.gz	Japan	1
+/mediawiki/1.18/mediawiki-1.18.1.tar.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.1.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.0rc1.tar.gz	United States	1
+/mediawiki/1.18/mediawiki-1.18.0.tar.gz	Ukraine	1
+/mediawiki/1.17/mediawiki-i18n-1.17.3.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.5.tar.gz	France	1
+/mediawiki/1.17/mediawiki-1.17.4.patch.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.1.tar.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.1.patch.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.0beta1.tar.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Ukraine	1
+/mediawiki/1.16/mediawiki-i18n-1.16.5.patch.gz	China	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0beta3.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0.patch.gz	United States	1
+/mediawiki/1.16/mediawiki-1.16.3.tar.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.3.patch.gz	Czech Republic	1
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.1.tar.gz	Unknown	1
+/mediawiki/1.16/mediawiki-1.16.0beta3.tar.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.0beta3.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.0beta2.tar.gz	India	1
+/mediawiki/1.15/mediawiki-i18n-1.15.5.patch.gz	India	1
+/mediawiki/1.15/mediawiki-i18n-1.15.2.patch.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.3.tar.gz	Japan	1
+/mediawiki/1.15/mediawiki-1.15.2.tar.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.2.patch.gz	United Kingdom	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Unknown	1
+/mediawiki/1.15/mediawiki-1.15.0rc1.patch.gz	India	1
+/mediawiki/1.14/mediawiki-1.14.0.tar.gz	Russia	1
+/mediawiki/1.14/mediawiki-1.14.0.tar.gz	France	1
+/mediawiki/1.13/mediawiki-i18n-1.13.4.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-i18n-1.13.1.patch.gz	United Kingdom	1
+/mediawiki/1.13/mediawiki-i18n-1.13.1.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.4.tar.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.2.patch.gz	United Kingdom	1
+/mediawiki/1.13/mediawiki-1.13.0.tar.gz	Taiwan	1
+/mediawiki/1.13/mediawiki-1.13.0.tar.gz	France	1
+/mediawiki/1.12/mediawiki-1.12.0.patch.gz	Germany	1
+/mediawiki/1.10/mediawiki-1.10.4.tar.gz	Bulgaria	1
+/mediawiki/1.10/mediawiki-1.10.2.tar.gz	France	1
+/mediawiki/1.10/mediawiki-1.10.1.tar.gz	United States	1
+/mediawiki/1.10/mediawiki-1.10.0rc1.tar.gz	France	1
+/mediawiki/1.10/mediawiki-1.10.0.tar.gz	Germany	1
+/mediawiki//1.13/mediawiki-1.13.1.tar.gz	United Kingdom	1
+/mobile/android/wikipedia/stable/wikipedia-2.0-releasesprod-2015-04-23.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-04-23.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-04-10.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-03-05.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-02-19.mapping.tar.gz	Germany	1
+/mediawiki/1.9/mediawiki-1.9.3.tar.gz	Germany	1
+/mediawiki/1.9/mediawiki-1.9.0.tar.gz	Angola	1
+/mediawiki/1.7/mediawiki-1.7.3.tar.gz	Ukraine	1
+/mediawiki/1.6/mediawiki-1.6.11.tar.gz	Germany	1
+/mediawiki/1.5/mediawiki-1.5.5.tar.gz	Germany	1
+/mediawiki/1.4/mediawiki-1.4.9.tar.gz	United States	1
+/mediawiki/1.4/mediawiki-1.4.14.tar.gz	Germany	1
+/mediawiki/1.3/mediawiki-1.3.12.tar.gz	Germany	1
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Ukraine	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	South Sudan	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Canada	1
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Taiwan	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Uruguay	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Uganda	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Tajikistan	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Thailand	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Estonia	1
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Belgium	1
+/mediawiki/1.24/mediawiki-core-1.24.2.tar.gz	Germany	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Republic of the Congo	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mauritania	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mali	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Libya	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Kyrgyzstan	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Cyprus	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Guadeloupe	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Czech Republic	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Bangladesh	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Uruguay	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	South Africa	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Brazil	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.3.tar.gz	Switzerland	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.patch.gz	India	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.0.tar.gz	France	1
+/mediawiki/1.23/mediawiki-i18n-1.23.6.patch.gz	Germany	1
+/mediawiki/1.23/mediawiki-core-1.23.6.tar.gz	Kuwait	1
+/mediawiki/1.23/mediawiki-core-1.23.1.tar.gz	Greece	1
+/mediawiki/1.23/mediawiki-1.23.8.tar.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.7.patch.gz	Netherlands	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Japan	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	India	1
+/mediawiki/1.23/mediawiki-1.23.4.patch.gz	Netherlands	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Norway	1
+/mediawiki/1.23/mediawiki-1.23.2.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.1.patch.gz	United Kingdom	1
+/mediawiki/1.23/mediawiki-1.23.1.patch.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Singapore	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Rwanda	1
+/mediawiki/1.23/mediawiki-1.23.0-rc.3.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-i18n-1.22.13.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-i18n-1.22.0rc3.patch.gz	India	1
+/mediawiki/1.22/mediawiki-core-1.22.6.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.14.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.13.tar.gz	India	1
+/mediawiki/1.22/mediawiki-core-1.22.0rc1.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.8.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.6.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.5.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.4.tar.gz	Iran	1
+/mediawiki/1.22/mediawiki-1.22.15.tar.gz	Morocco	1
+/mediawiki/1.22/mediawiki-1.22.15.tar.gz	Brazil	1
+/mediawiki/1.22/mediawiki-1.22.14.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.13.tar.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.11.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.1.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.1.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.0rc3.tar.gz	India	1
+/mediawiki/1.21/mediawiki-i18n-1.21.8.patch.gz	India	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc3.patch.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.9.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.8.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.11.tar.gz	Japan	1
+/mediawiki/1.21/mediawiki-core-1.21.11.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.10.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.1.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.1.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.9.patch.gz	Czech Republic	1
+/mediawiki/1.21/mediawiki-1.21.8.patch.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.8.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.7.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.7.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.5.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.3.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Belarus	1
+/mediawiki/1.21/mediawiki-1.21.2.patch.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.11.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	Turkey	1
+/mediawiki/1.21/mediawiki-1.21.0rc3.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.0rc3.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0rc2.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.0.tar.gz	Denmark	1
+/mediawiki/1.20/mediawiki-i18n-1.20.8.patch.gz	Germany	1
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	Netherlands	1
+/mediawiki/1.19/mediawiki-i18n-1.19.9.patch.gz	United States	1
+/mediawiki/1.19/mediawiki-i18n-1.19.14.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-i18n-1.19.10.patch.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.9.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.23.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.18.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.11.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.10.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Israel	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Argentina	1
+/mediawiki/1.19/mediawiki-1.19.22.tar.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.22.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.21.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.19.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.18.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.16.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.16.patch.gz	Czech Republic	1
+/mediawiki/1.19/mediawiki-1.19.15.tar.gz	United Kingdom	1
+/mediawiki/1.19/mediawiki-1.19.15.patch.gz	India	1
+/mediawiki/1.18/mediawiki-i18n-1.18.5.patch.gz	United States	1
+/mediawiki/1.18/mediawiki-i18n-1.18.5.patch.gz	India	1
+/mediawiki/1.18/mediawiki-i18n-1.18.2.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Slovak Republic	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Singapore	1
+/mediawiki/1.18/mediawiki-1.18.5.tar.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.5.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.4.tar.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.3.tar.gz	United Kingdom	1
+/mediawiki/1.18/mediawiki-1.18.2.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.1.tar.gz	Australia	1
+/mediawiki/1.18/mediawiki-1.18.0.tar.gz	France	1
+/mediawiki/1.17/mediawiki-i18n-1.17.1.patch.gz	India	1
+/mediawiki/1.17/mediawiki-i18n-1.17.0rc1.patch.gz	United States	1
+/mediawiki/1.17/mediawiki-1.17.5.tar.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.4.tar.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.0rc1.patch.gz	Czech Republic	1
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Canada	1
+/mediawiki/1.16/mediawiki-i18n-1.16.3.patch.gz	Angola	1
+/mediawiki/1.16/mediawiki-i18n-1.16.1.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	Netherlands	1
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	China	1
+/mediawiki/1.16/mediawiki-1.16.3.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.0beta3.tar.gz	Romania	1
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	Latvia	1
+/mediawiki/1.16/mediawiki-1.16.0.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-i18n-1.15.4.patch.gz	United States	1
+/mediawiki/1.15/mediawiki-i18n-1.15.0rc1.patch.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.4.patch.gz	Taiwan	1
+/mediawiki/1.15/mediawiki-1.15.3.patch.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.2.tar.gz	France	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Brazil	1
+/mediawiki/1.15/mediawiki-1.15.0.patch.gz	India	1
+/mediawiki/1.14/mediawiki-i18n-1.14.0.patch.gz	United States	1
+/mediawiki/1.14/mediawiki-i18n-1.14.0.patch.gz	India	1
+/mediawiki/1.13/mediawiki-i18n-1.13.2.patch.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.4.tar.gz	France	1
+/mediawiki/1.13/mediawiki-1.13.4.patch.gz	United Kingdom	1
+/mediawiki/1.13/mediawiki-1.13.4.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.1.patch.gz	Germany	1
+/mediawiki/1.12/mediawiki-i18n-1.12.2.patch.gz	Germany	1
+/mediawiki/1.12/mediawiki-1.12.4.tar.gz	France	1
+/mediawiki/1.12/mediawiki-1.12.4.tar.gz	Czech Republic	1
+/mediawiki/1.12/mediawiki-1.12.2.tar.gz	Germany	1
+/mediawiki/1.12/mediawiki-1.12.2.patch.gz	Czech Republic	1
+/mediawiki/1.11/mediawiki-1.11.2.tar.gz	Germany	1
+/mediawiki/1.10/mediawiki-1.10.4.tar.gz	Germany	1
+/mediawiki/1.10/mediawiki-1.10.0rc1.tar.gz	United Kingdom	1
+/mediawiki//1.18/mediawiki-1.18.1.tar.gz	United Kingdom	1
+/mediawiki//1.16/mediawiki-1.16.5.tar.gz	Czech Republic	1
+/mediawiki//1.12/mediawiki-1.12.2.tar.gz	France	1
+/mobile/android/wikipedia/stable/wikipedia-2.0-releasesprod-2015-03-23.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0.102-beta-2015-05-14.mapping.tar.gz	Hong Kong	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-04-10.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-03-09.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2014-12-19.mapping.tar.gz	China	1
+/mediawiki/snapshot/mediawiki-snapshot-20060316.tar.gz	Philippines	1
+/mediawiki/1.9/mediawiki-1.9.2.tar.gz	France	1
+/mediawiki/1.9/mediawiki-1.9.0.tar.gz	Germany	1
+/mediawiki/1.7/mediawiki-1.7.3.tar.gz	France	1
+/mediawiki/1.6/mediawiki-1.6.10.tar.gz	Russia	1
+/mediawiki/1.6/mediawiki-1.6.10.tar.gz	France	1
+/mediawiki/1.4/mediawiki-1.4.5.tar.gz	Germany	1
+/mediawiki/1.4/mediawiki-1.4.13.tar.gz	France	1
+/mediawiki/1.3/mediawiki-1.3.18.tar.gz	France	1
+/mediawiki/1.3/mediawiki-1.3.13.tar.gz	Angola	1
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Russia	1
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	France	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Switzerland	1
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Unknown	1
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Philippines	1
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Israel	1
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	China	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Somalia	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Maldives	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Laos	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Dominican Republic	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Sri Lanka	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Serbia	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Panama	1
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Pakistan	1
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	India	1
+/mediawiki/1.24/mediawiki-core-1.24.0-rc.2.tar.gz	Germany	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Paraguay	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Liechtenstein	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Kosovo	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Iran	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.0.tar.gz	United Kingdom	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.0.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-i18n-1.23.0-rc.1.patch.gz	United States	1
+/mediawiki/1.23/mediawiki-core-1.23.7.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-core-1.23.1.tar.gz	United States	1
+/mediawiki/1.23/mediawiki-core-1.23.0.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-core-1.23.0-rc.3.tar.gz	United States	1
+/mediawiki/1.23/mediawiki-core-1.23.0-rc.2.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Denmark	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Italy	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Australia	1
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	Belarus	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Canada	1
+/mediawiki/1.23/mediawiki-1.23.1.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.0rc0.tar.gz	India	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Azerbaijan	1
+/mediawiki/1.23/mediawiki-1.23.0-rc.1.patch.gz	India	1
+/mediawiki/1.22/mediawiki-i18n-1.22.7.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-i18n-1.22.14.patch.gz	India	1
+/mediawiki/1.22/mediawiki-i18n-1.22.1.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.10.tar.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.9.tar.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.9.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.8.tar.gz	Unknown	1
+/mediawiki/1.22/mediawiki-1.22.8.patch.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.6.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.5.tar.gz	Russia	1
+/mediawiki/1.22/mediawiki-1.22.5.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.3.patch.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.3.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.14.tar.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.14.patch.gz	Greece	1
+/mediawiki/1.22/mediawiki-1.22.14.patch.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.12.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.11.patch.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	Slovak Republic	1
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	Morocco	1
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	Turkey	1
+/mediawiki/1.22/mediawiki-1.22.0rc2.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.3.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc5.patch.gz	United States	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc2.patch.gz	United States	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.4.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.3.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.0rc4.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.0rc4.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.9.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.9.patch.gz	United Kingdom	1
+/mediawiki/1.21/mediawiki-1.21.5.tar.gz	France	1
+/mediawiki/1.21/mediawiki-1.21.4.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.3.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.3.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.11.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.11.patch.gz	Chile	1
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	China	1
+/mediawiki/1.21/mediawiki-1.21.0rc5.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0rc2.patch.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.0.patch.gz	Germany	1
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	Chile	1
+/mediawiki/1.19/mediawiki-i18n-1.19.22.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-i18n-1.19.12.patch.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	Singapore	1
+/mediawiki/1.19/mediawiki-core-1.19.23.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.22.tar.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.16.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.14.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.9.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	Canada	1
+/mediawiki/1.19/mediawiki-1.19.23.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.22.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-1.19.22.patch.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.21.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.20.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.20.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.19.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.18.patch.gz	Ireland	1
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	Unknown	1
+/mediawiki/1.19/mediawiki-1.19.16.patch.gz	United Kingdom	1
+/mediawiki/1.19/mediawiki-1.19.14.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.13.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-1.19.13.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.12.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.11.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.10.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-i18n-1.18.0.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Macao	1
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	Taiwan	1
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	France	1
+/mediawiki/1.18/mediawiki-1.18.2.tar.gz	Czech Republic	1
+/mediawiki/1.18/mediawiki-1.18.0rc1.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.0beta1.tar.gz	Pakistan	1
+/mediawiki/1.18/mediawiki-1.18.0.patch.gz	Australia	1
+/mediawiki/1.17/mediawiki-1.17.4.tar.gz	France	1
+/mediawiki/1.17/mediawiki-1.17.4.patch.gz	United Kingdom	1
+/mediawiki/1.17/mediawiki-1.17.4.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.1.tar.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.1.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.0rc1.tar.gz	Russia	1
+/mediawiki/1.17/mediawiki-1.17.0beta1.tar.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Spain	1
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Argentina	1
+/mediawiki/1.16/mediawiki-i18n-1.16.5.patch.gz	India	1
+/mediawiki/1.16/mediawiki-i18n-1.16.2.patch.gz	India	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0.patch.gz	Czech Republic	1
+/mediawiki/1.16/mediawiki-1.16.4.tar.gz	Canada	1
+/mediawiki/1.16/mediawiki-1.16.1.tar.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.1.patch.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.0beta3.patch.gz	United States	1
+/mediawiki/1.16/mediawiki-1.16.0beta2.tar.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.0beta1.tar.gz	United States	1
+/mediawiki/1.16/mediawiki-1.16.0beta1.tar.gz	India	1
+/mediawiki/1.15/mediawiki-i18n-1.15.5.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-i18n-1.15.2.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-1.15.2.tar.gz	Germany	1
+/mediawiki/1.15/mediawiki-1.15.2.patch.gz	United States	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Ukraine	1
+/mediawiki/1.15/mediawiki-1.15.0rc1.patch.gz	United Kingdom	1
+/mediawiki/1.15/mediawiki-1.15.0.tar.gz	Unknown	1
+/mediawiki/1.13/mediawiki-i18n-1.13.5.patch.gz	Czech Republic	1
+/mediawiki/1.13/mediawiki-i18n-1.13.4.patch.gz	United States	1
+/mediawiki/1.13/mediawiki-1.13.5.patch.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.4.tar.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.3.tar.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.3.patch.gz	Czech Republic	1
+/mediawiki/1.13/mediawiki-1.13.2.patch.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.1.i18n.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.0rc2.tar.gz	Germany	1
+/mediawiki/1.12/mediawiki-i18n-1.12.1.patch.gz	Czech Republic	1
+/mediawiki/1.12/mediawiki-1.12.4.tar.gz	United Kingdom	1
+/mediawiki/1.12/mediawiki-1.12.4.tar.gz	Netherlands	1
+/mediawiki/1.12/mediawiki-1.12.2.patch.gz	United Kingdom	1
+/mediawiki/1.11/mediawiki-1.11.1.tar.gz	France	1
+/mediawiki/1.10/mediawiki-1.10.4.tar.gz	Australia	1
+/mediawiki/1.10/mediawiki-1.10.1.tar.gz	France	1
+/mediawiki//1.24/mediawiki-1.24.2.patch.gz	Netherlands	1
+/mediawiki//1.18/mediawiki-1.18.2.patch.gz	Czech Republic	1
+/mediawiki//1.11/mediawiki-1.11.0.tar.gz	Romania	1
+/debian/dists/trusty-mediawiki/main/source/Sources.gz	Angola	1
+//mediawiki/1.16/mediawiki-1.16.0.tar.gz	China	1
+https://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Myanmar [Burma]	1
+/mobile/android/wikipedia/stable/wikipedia-2.0-releasesprod-2015-03-23.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/stable/wikipedia-2.0-releasesprod-2015-01-15.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-04-23.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-04-10.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-02-19.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2014-12-19.mapping.tar.gz	Angola	1
+/mediawiki/snapshot/mediawiki-snapshot-20060317.tar.gz	Saudi Arabia	1
+/mediawiki/snapshot/mediawiki-snapshot-20060317.tar.gz	Angola	1
+/mediawiki/snapshot/mediawiki-snapshot-20060316.tar.gz	Saudi Arabia	1
+/mediawiki/1.9/mediawiki-1.9.0.tar.gz	Angola	1
+/mediawiki/1.5/mediawiki-1.5.6.tar.gz	Angola	1
+/mediawiki/1.4/mediawiki-1.4.5.tar.gz	Angola	1
+/mediawiki/1.4/mediawiki-1.4.4.tar.gz	Angola	1
+/mediawiki/1.3/mediawiki-1.3.18.tar.gz	Angola	1
+/mediawiki/1.3/mediawiki-1.3.15.tar.gz	Angola	1
+/mediawiki/1.3/mediawiki-1.3.13.tar.gz	Angola	1
+/mediawiki/1.3/mediawiki-1.3.12.tar.gz	Angola	1
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Saudi Arabia	1
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Angola	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	United Kingdom	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	South Africa	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Canada	1
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Canada	1
+/mediawiki/1.25/mediawiki-core-1.25.0-rc.0.tar.gz	Saudi Arabia	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Venezuela	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Unknown	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Togo	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Tajikistan	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Sweden	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Somalia	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Senegal	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Romania	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Portugal	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Poland	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Peru	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Panama	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Norway	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Myanmar [Burma]	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Mozambique	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Mexico	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Mauritania	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Madagascar	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Libya	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Lebanon	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Laos	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Ivory Coast	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Israel	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Hong Kong	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Hashemite Kingdom of Jordan	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Djibouti	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Czech Republic	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Cyprus	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Benin	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Austria	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	South Africa	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Russia	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Mexico	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Kuwait	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Iran	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Ethiopia	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Canada	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Angola	1
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Saudi Arabia	1
+/mediawiki/1.24/mediawiki-i18n-1.24.2.patch.gz	Saudi Arabia	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Uzbekistan	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Uruguay	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Trinidad and Tobago	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Tanzania	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Sudan	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Spain	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Romania	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	North Korea	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mozambique	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mauritius	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Mauritania	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Laos	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Jamaica	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Italy	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Ireland	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Gabon	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Finland	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	East Timor	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Czech Republic	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Cyprus	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Costa Rica	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Congo	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Chile	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Canada	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Brunei	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Austria	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Albania	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	United States	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Romania	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Egypt	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Iran	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.0.tar.gz	Saudi Arabia	1
+/mediawiki/1.23/mediawiki-i18n-1.23.9.patch.gz	Saudi Arabia	1
+/mediawiki/1.23/mediawiki-i18n-1.23.7.patch.gz	Saudi Arabia	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Vanuatu	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Taiwan	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Singapore	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Mauritania	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Madagascar	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Kazakhstan	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Iraq	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	India	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Ethiopia	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Bangladesh	1
+/mediawiki/1.23/mediawiki-1.23.8.tar.gz	United States	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Vietnam	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Philippines	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Morocco	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Azerbaijan	1
+/mediawiki/1.22/mediawiki-1.22.4.tar.gz	Iran	1
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	Republic of Korea	1
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	Malaysia	1
+/mediawiki/1.21/mediawiki-1.21.7.tar.gz	Iran	1
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	China	1
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	United Kingdom	1
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	Romania	1
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0.tar.gz	Romania	1
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Taiwan	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Russia	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Netherlands	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Myanmar [Burma]	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Mexico	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Madagascar	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Iran	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Indonesia	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Greece	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Egypt	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Bangladesh	1
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	Ivory Coast	1
+/mediawiki/1.19/mediawiki-1.19.13.tar.gz	Iran	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Sudan	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Mexico	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Malaysia	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Kuwait	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	China	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Brazil	1
+/mediawiki/1.18/mediawiki-1.18.1.tar.gz	China	1
+/mediawiki/1.18/mediawiki-1.18.0beta1.tar.gz	Pakistan	1
+/mediawiki/1.17/mediawiki-1.17.3.tar.gz	South Africa	1
+/mediawiki/1.17/mediawiki-1.17.0rc1.tar.gz	Romania	1
+/mediawiki/1.16/mediawiki-i18n-1.16.3.patch.gz	Angola	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0beta3.patch.gz	Saudi Arabia	1
+/mediawiki/1.16/mediawiki-1.16.2.tar.gz	Romania	1
+/mediawiki/1.16/mediawiki-1.16.0beta3.tar.gz	Romania	1
+/mediawiki/1.16/mediawiki-1.16.0.tar.gz	China	1
+/mediawiki/1.15/mediawiki-1.15.4.tar.gz	Romania	1
+/mediawiki/1.15/mediawiki-1.15.2.tar.gz	Thailand	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Romania	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Indonesia	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	China	1
+/mediawiki/1.13/mediawiki-1.13.1.tar.gz	China	1
+/mediawiki/1.11/mediawiki-1.11.1.tar.gz	Romania	1
+/mediawiki/1.11/mediawiki-1.11.1.tar.gz	Angola	1
+/mediawiki//1.23/mediawiki-1.23.0.tar.gz	China	1
+/mediawiki//1.18/mediawiki-1.18.6.tar.gz	China	1
+/mediawiki//1.16/mediawiki-1.16.0.tar.gz	China	1
+/mediawiki//1.15/mediawiki-1.15.1.tar.gz	China	1
+/mediawiki//1.13/mediawiki-1.13.1.tar.gz	China	1
+/mediawiki//1.11/mediawiki-1.11.0.tar.gz	Romania	1
+http://releases.wikimedia.org/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Malaysia	1
+http://releases.wikimedia.org/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Bangladesh	1
+/mobile/android/wikipedia/stable/wikipedia-2.0.102-releasesprod-2015-05-14.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-03-23.mapping.tar.gz	Germany	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2014-12-19.mapping.tar.gz	Germany	1
+/mediawiki/snapshot/mediawiki-snapshot-20060316.tar.gz	Germany	1
+/mediawiki/1.9/mediawiki-1.9.5.tar.gz	Germany	1
+/mediawiki/1.9/mediawiki-1.9.0.tar.gz	France	1
+/mediawiki/1.7/mediawiki-1.7.1.tar.gz	France	1
+/mediawiki/1.5/mediawiki-1.5.2.tar.gz	France	1
+/mediawiki/1.4/mediawiki-1.4.7.tar.gz	Angola	1
+/mediawiki/1.4/mediawiki-1.4.5.tar.gz	France	1
+/mediawiki/1.4/mediawiki-1.4.15.tar.gz	Ukraine	1
+/mediawiki/1.4/mediawiki-1.4.15.tar.gz	India	1
+/mediawiki/1.3/mediawiki-1.3.18.tar.gz	Angola	1
+/mediawiki/1.3/mediawiki-1.3.13.tar.gz	India	1
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Angola	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Sweden	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Poland	1
+/mediawiki/1.25/mediawiki-core-1.25.1.tar.gz	Netherlands	1
+/mediawiki/1.25/mediawiki-core-1.25.0.tar.gz	Venezuela	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Niger	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Benin	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Singapore	1
+/mediawiki/1.25/mediawiki-1.25.0-rc.0.tar.gz	Mexico	1
+/mediawiki/1.24/mediawiki-core-1.24.0-rc.0.tar.gz	United Kingdom	1
+/mediawiki/1.24/mediawiki-core-1.24.0-rc.0.tar.gz	Netherlands	1
+/mediawiki/1.24/mediawiki-core-1.24.0-rc.0.tar.gz	Germany	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Gibraltar	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Japan	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Guadeloupe	1
+/mediawiki/1.24/mediawiki-1.24.1.tar.gz	Bermuda	1
+/mediawiki/1.23/mediawiki-i18n-1.23.9.patch.gz	Unknown	1
+/mediawiki/1.23/mediawiki-i18n-1.23.7.patch.gz	United States	1
+/mediawiki/1.23/mediawiki-core-1.23.5.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Mozambique	1
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	Czech Republic	1
+/mediawiki/1.23/mediawiki-1.23.7.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Vietnam	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Unknown	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	China	1
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	New Zealand	1
+/mediawiki/1.23/mediawiki-1.23.4.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.4.patch.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Russia	1
+/mediawiki/1.23/mediawiki-1.23.3.patch.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.0rc0.tar.gz	United States	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Morocco	1
+/mediawiki/1.22/mediawiki-i18n-1.22.3.patch.gz	India	1
+/mediawiki/1.22/mediawiki-core-1.22.8.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.1.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.0rc3.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.0rc2.tar.gz	India	1
+/mediawiki/1.22/mediawiki-core-1.22.0.tar.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.8.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.8.patch.gz	Unknown	1
+/mediawiki/1.22/mediawiki-1.22.3.tar.gz	Russia	1
+/mediawiki/1.22/mediawiki-1.22.3.tar.gz	Dominican Republic	1
+/mediawiki/1.22/mediawiki-1.22.2.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.15.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.15.patch.gz	Austria	1
+/mediawiki/1.22/mediawiki-1.22.12.tar.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	Ireland	1
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	Czech Republic	1
+/mediawiki/1.21/mediawiki-i18n-1.21.6.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.2.patch.gz	India	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc4.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0.patch.gz	Turkey	1
+/mediawiki/1.21/mediawiki-core-1.21.3.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.2.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-core-1.21.0rc3.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.9.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.8.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.6.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.3.tar.gz	Czech Republic	1
+/mediawiki/1.21/mediawiki-1.21.3.tar.gz	Canada	1
+/mediawiki/1.21/mediawiki-1.21.2.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.11.tar.gz	Denmark	1
+/mediawiki/1.21/mediawiki-1.21.11.patch.gz	United Kingdom	1
+/mediawiki/1.21/mediawiki-1.21.10.tar.gz	United Kingdom	1
+/mediawiki/1.21/mediawiki-1.21.10.tar.gz	Japan	1
+/mediawiki/1.21/mediawiki-1.21.10.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.1.tar.gz	Sweden	1
+/mediawiki/1.21/mediawiki-1.21.0rc5.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.0rc4.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.0rc4.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.0rc3.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0rc2.tar.gz	Unknown	1
+/mediawiki/1.21/mediawiki-1.21.0.tar.gz	India	1
+/mediawiki/1.19/mediawiki-i18n-1.19.9.patch.gz	India	1
+/mediawiki/1.19/mediawiki-i18n-1.19.24.patch.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	Brazil	1
+/mediawiki/1.19/mediawiki-core-1.19.22.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.21.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.21.tar.gz	Georgia	1
+/mediawiki/1.19/mediawiki-core-1.19.20.tar.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.19.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.14.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.12.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.11.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.9.patch.gz	United States	1
+/mediawiki/1.19/mediawiki-1.19.9.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Puerto Rico	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Mali	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Ghana	1
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	Russia	1
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	Czech Republic	1
+/mediawiki/1.19/mediawiki-1.19.23.patch.gz	Morocco	1
+/mediawiki/1.19/mediawiki-1.19.20.patch.gz	United States	1
+/mediawiki/1.19/mediawiki-1.19.20.patch.gz	Morocco	1
+/mediawiki/1.19/mediawiki-1.19.19.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.18.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	United Kingdom	1
+/mediawiki/1.19/mediawiki-1.19.17.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.16.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.12.tar.gz	France	1
+/mediawiki/1.19/mediawiki-1.19.12.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.10.tar.gz	Germany	1
+/mediawiki/1.18/mediawiki-i18n-1.18.6.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-i18n-1.18.0rc1.patch.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Serbia	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Denmark	1
+/mediawiki/1.18/mediawiki-1.18.6.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.3.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-i18n-1.17.2.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-i18n-1.17.0rc1.patch.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.3.patch.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.2.tar.gz	France	1
+/mediawiki/1.17/mediawiki-1.17.2.tar.gz	Czech Republic	1
+/mediawiki/1.17/mediawiki-1.17.1.patch.gz	Czech Republic	1
+/mediawiki/1.17/mediawiki-1.17.0rc1.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.0.patch.gz	India	1
+/mediawiki/1.16/mediawiki-i18n-1.16.5.patch.gz	United States	1
+/mediawiki/1.16/mediawiki-i18n-1.16.0beta2.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	Australia	1
+/mediawiki/1.16/mediawiki-1.16.0beta2.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-i18n-1.15.4.patch.gz	India	1
+/mediawiki/1.15/mediawiki-i18n-1.15.1.patch.gz	India	1
+/mediawiki/1.15/mediawiki-1.15.4.tar.gz	France	1
+/mediawiki/1.15/mediawiki-1.15.4.patch.gz	United Kingdom	1
+/mediawiki/1.15/mediawiki-1.15.1.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-1.15.0rc1.tar.gz	India	1
+/mediawiki/1.14/mediawiki-i18n-1.14.1.patch.gz	Germany	1
+/mediawiki/1.14/mediawiki-1.14.1.tar.gz	India	1
+/mediawiki/1.14/mediawiki-1.14.0rc1.tar.gz	India	1
+/mediawiki/1.13/mediawiki-i18n-1.13.3.patch.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.5.patch.gz	United States	1
+/mediawiki/1.13/mediawiki-1.13.3.tar.gz	Slovak Republic	1
+/mediawiki/1.13/mediawiki-1.13.2.tar.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.1.patch.gz	United Kingdom	1
+/mediawiki/1.13/mediawiki-1.13.0rc2.tar.gz	France	1
+/mediawiki/1.12/mediawiki-i18n-1.12.4.patch.gz	Czech Republic	1
+/mediawiki/1.12/mediawiki-1.12.4.tar.gz	Germany	1
+/mediawiki/1.12/mediawiki-1.12.2.patch.gz	Germany	1
+/mediawiki/1.11/mediawiki-1.11.1.tar.gz	Angola	1
+/mediawiki/1.11/mediawiki-1.11.0.tar.gz	Republic of Korea	1
+/mediawiki//1.18/mediawiki-i18n-1.18.0.patch.gz	United Kingdom	1
+/mediawiki//1.17/mediawiki-1.17.3.tar.gz	United Kingdom	1
+/mediawiki//1.16/mediawiki-1.16.5.tar.gz	United Kingdom	1
+http://releases.wikimedia.org/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Guinea	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-03-05.mapping.tar.gz	United States	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2015-01-13.mapping.tar.gz	Angola	1
+/mobile/android/wikipedia/betas/wikipedia-2.0-beta-2014-12-19.mapping.tar.gz	United States	1
+/mediawiki/1.9/mediawiki-1.9.6.tar.gz	Canada	1
+/mediawiki/1.9/mediawiki-1.9.5.tar.gz	United States	1
+/mediawiki/1.9/mediawiki-1.9.4.tar.gz	Germany	1
+/mediawiki/1.8/mediawiki-1.8.4.tar.gz	France	1
+/mediawiki/1.5/mediawiki-1.5.8.tar.gz	France	1
+/mediawiki/1.5/mediawiki-1.5.6.tar.gz	Germany	1
+/mediawiki/1.4/mediawiki-1.4.9.tar.gz	Germany	1
+/mediawiki/1.4/mediawiki-1.4.4.tar.gz	France	1
+/mediawiki/1.4/mediawiki-1.4.15.tar.gz	Germany	1
+/mediawiki/1.4/mediawiki-1.4.14.tar.gz	India	1
+/mediawiki/1.3/mediawiki-1.3.13.tar.gz	Germany	1
+/mediawiki/1.3/mediawiki-1.3.11.tar.gz	Philippines	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Puerto Rico	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Libya	1
+/mediawiki/1.25/mediawiki-1.25.1.tar.gz	Hashemite Kingdom of Jordan	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Nigeria	1
+/mediawiki/1.25/mediawiki-1.25.0.tar.gz	Finland	1
+/mediawiki/1.24/mediawiki-i18n-1.24.2.patch.gz	Czech Republic	1
+/mediawiki/1.24/mediawiki-1.24.2.tar.gz	Gambia	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	United Arab Emirates	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Slovak Republic	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Mozambique	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Morocco	1
+/mediawiki/1.24/mediawiki-1.24.2.patch.gz	Brazil	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Russia	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	France	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Canada	1
+/mediawiki/1.24/mediawiki-1.24.0.tar.gz	Bangladesh	1
+/mediawiki/1.24/mediawiki-1.24.0-rc.1.tar.gz	Czech Republic	1
+/mediawiki/1.23/mediawiki-core-1.23.0-rc.1.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.9.tar.gz	Guadeloupe	1
+/mediawiki/1.23/mediawiki-1.23.9.patch.gz	Belarus	1
+/mediawiki/1.23/mediawiki-1.23.7.tar.gz	Germany	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	India	1
+/mediawiki/1.23/mediawiki-1.23.6.tar.gz	Austria	1
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	Unknown	1
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	Netherlands	1
+/mediawiki/1.23/mediawiki-1.23.5.tar.gz	Argentina	1
+/mediawiki/1.23/mediawiki-1.23.4.patch.gz	Venezuela	1
+/mediawiki/1.23/mediawiki-1.23.3.tar.gz	Chile	1
+/mediawiki/1.23/mediawiki-1.23.2.tar.gz	France	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Myanmar [Burma]	1
+/mediawiki/1.23/mediawiki-1.23.1.tar.gz	Albania	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Latvia	1
+/mediawiki/1.23/mediawiki-1.23.0.tar.gz	Croatia	1
+/mediawiki/1.23/mediawiki-1.23.0-rc.3.patch.gz	India	1
+/mediawiki/1.22/mediawiki-i18n-1.22.3.patch.gz	Germany	1
+/mediawiki/1.22/mediawiki-i18n-1.22.13.patch.gz	India	1
+/mediawiki/1.22/mediawiki-core-1.22.7.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.15.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.0rc3.tar.gz	United States	1
+/mediawiki/1.22/mediawiki-core-1.22.0rc2.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-core-1.22.0.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.9.patch.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.8.patch.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.7.tar.gz	Germany	1
+/mediawiki/1.22/mediawiki-1.22.6.tar.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.5.patch.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.5.patch.gz	India	1
+/mediawiki/1.22/mediawiki-1.22.2.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.2.tar.gz	Canada	1
+/mediawiki/1.22/mediawiki-1.22.2.patch.gz	United States	1
+/mediawiki/1.22/mediawiki-1.22.13.tar.gz	Unknown	1
+/mediawiki/1.22/mediawiki-1.22.13.patch.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.11.tar.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.10.tar.gz	France	1
+/mediawiki/1.22/mediawiki-1.22.10.patch.gz	Chile	1
+/mediawiki/1.22/mediawiki-1.22.0.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.2.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-i18n-1.21.0rc4.patch.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.9.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.3.tar.gz	Canada	1
+/mediawiki/1.21/mediawiki-core-1.21.2.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-core-1.21.2.tar.gz	India	1
+/mediawiki/1.21/mediawiki-core-1.21.11.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.8.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.8.tar.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.7.tar.gz	Iran	1
+/mediawiki/1.21/mediawiki-1.21.5.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Canada	1
+/mediawiki/1.21/mediawiki-1.21.2.tar.gz	Algeria	1
+/mediawiki/1.21/mediawiki-1.21.2.patch.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.11.patch.gz	India	1
+/mediawiki/1.21/mediawiki-1.21.0rc4.tar.gz	United States	1
+/mediawiki/1.21/mediawiki-1.21.0rc3.tar.gz	Germany	1
+/mediawiki/1.21/mediawiki-1.21.0rc2.tar.gz	India	1
+/mediawiki/1.20/mediawiki-i18n-1.20.8.patch.gz	Pakistan	1
+/mediawiki/1.20/mediawiki-i18n-1.20.8.patch.gz	India	1
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	India	1
+/mediawiki/1.20/mediawiki-1.20.8.tar.gz	Denmark	1
+/mediawiki/1.19/mediawiki-i18n-1.19.9.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-i18n-1.19.24.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-i18n-1.19.14.patch.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.9.tar.gz	India	1
+/mediawiki/1.19/mediawiki-core-1.19.24.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.21.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.20.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.19.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.18.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.13.tar.gz	France	1
+/mediawiki/1.19/mediawiki-core-1.19.12.tar.gz	United States	1
+/mediawiki/1.19/mediawiki-core-1.19.11.tar.gz	Germany	1
+/mediawiki/1.19/mediawiki-core-1.19.10.tar.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.9.patch.gz	Germany	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Norway	1
+/mediawiki/1.19/mediawiki-1.19.24.tar.gz	Malaysia	1
+/mediawiki/1.19/mediawiki-1.19.24.patch.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.23.tar.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.22.tar.gz	Ireland	1
+/mediawiki/1.19/mediawiki-1.19.22.patch.gz	India	1
+/mediawiki/1.19/mediawiki-1.19.21.tar.gz	Brazil	1
+/mediawiki/1.19/mediawiki-1.19.21.patch.gz	Chile	1
+/mediawiki/1.19/mediawiki-1.19.18.patch.gz	Vietnam	1
+/mediawiki/1.19/mediawiki-1.19.17.patch.gz	Nigeria	1
+/mediawiki/1.19/mediawiki-1.19.12.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-i18n-1.18.0rc1.patch.gz	Germany	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Republic of Lithuania	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Ethiopia	1
+/mediawiki/1.18/mediawiki-1.18.6.tar.gz	Bangladesh	1
+/mediawiki/1.18/mediawiki-1.18.5.tar.gz	United States	1
+/mediawiki/1.18/mediawiki-1.18.5.tar.gz	India	1
+/mediawiki/1.18/mediawiki-1.18.0.tar.gz	Brazil	1
+/mediawiki/1.17/mediawiki-i18n-1.17.2.patch.gz	United States	1
+/mediawiki/1.17/mediawiki-i18n-1.17.0rc1.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.5.tar.gz	Ukraine	1
+/mediawiki/1.17/mediawiki-1.17.5.tar.gz	India	1
+/mediawiki/1.17/mediawiki-1.17.3.patch.gz	Germany	1
+/mediawiki/1.17/mediawiki-1.17.1.tar.gz	France	1
+/mediawiki/1.17/mediawiki-1.17.0rc1.tar.gz	Romania	1
+/mediawiki/1.17/mediawiki-1.17.0.tar.gz	Mexico	1
+/mediawiki/1.17/mediawiki-1.17.0.patch.gz	Germany	1
+/mediawiki/1.16/mediawiki-i18n-1.16.1.patch.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.5.tar.gz	Ukraine	1
+/mediawiki/1.16/mediawiki-1.16.3.patch.gz	India	1
+/mediawiki/1.16/mediawiki-1.16.1.tar.gz	France	1
+/mediawiki/1.16/mediawiki-1.16.0.patch.gz	India	1
+/mediawiki/1.15/mediawiki-i18n-1.15.4.patch.gz	United Kingdom	1
+/mediawiki/1.15/mediawiki-i18n-1.15.4.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-i18n-1.15.1.patch.gz	Germany	1
+/mediawiki/1.15/mediawiki-1.15.4.tar.gz	Romania	1
+/mediawiki/1.15/mediawiki-1.15.3.tar.gz	France	1
+/mediawiki/1.15/mediawiki-1.15.1.tar.gz	Japan	1
+/mediawiki/1.15/mediawiki-1.15.1.patch.gz	United States	1
+/mediawiki/1.15/mediawiki-1.15.0rc1.tar.gz	Germany	1
+/mediawiki/1.15/mediawiki-1.15.0.tar.gz	India	1
+/mediawiki/1.14/mediawiki-i18n-1.14.0.patch.gz	Germany	1
+/mediawiki/1.14/mediawiki-1.14.1.patch.gz	Germany	1
+/mediawiki/1.14/mediawiki-1.14.0.tar.gz	Ukraine	1
+/mediawiki/1.14/mediawiki-1.14.0.tar.gz	India	1
+/mediawiki/1.13/mediawiki-i18n-1.13.4.patch.gz	Czech Republic	1
+/mediawiki/1.13/mediawiki-i18n-1.13.3.patch.gz	India	1
+/mediawiki/1.13/mediawiki-i18n-1.13.1.patch.gz	Czech Republic	1
+/mediawiki/1.13/mediawiki-1.13.5.tar.gz	France	1
+/mediawiki/1.13/mediawiki-1.13.4.patch.gz	India	1
+/mediawiki/1.13/mediawiki-1.13.3.tar.gz	Taiwan	1
+/mediawiki/1.13/mediawiki-1.13.2.patch.gz	Czech Republic	1
+/mediawiki/1.13/mediawiki-1.13.1.tar.gz	Germany	1
+/mediawiki/1.13/mediawiki-1.13.1.patch.gz	United States	1
+/mediawiki/1.12/mediawiki-1.12.3.tar.gz	Germany	1
+/mediawiki/1.11/mediawiki-1.11.0.tar.gz	Angola	1
+/mediawiki/1.10/mediawiki-1.10.0.tar.gz	France	1
+/mediawiki/1.10/mediawiki-1.10.0.tar.gz	Angola	1
+/mediawiki//1.13/mediawiki-1.13.1.tar.gz	Czech Republic	1

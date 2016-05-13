@@ -1,0 +1,6 @@
+access_method	views
+desktop	86
+mobile web	1774
+mobile app	350
+opera
+1064
